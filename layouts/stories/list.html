@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="pa3-ns w-100-m w-60-ns center">
+  <section class="flex-ns flex-wrap justify-around mt1">
+    <div class="relative mb4 pa4 bg-white">
+
+      <img src="/banner.png">
+      
+      <h1>Stories</h1>
+      
+      <p class="pb3">
+        Folks who have shared their stories of reaching Staff-plus engineer roles:
+      </p>
+      
+    {{ range .Pages }}
+    {{ partial "summary.html" . }}
+    {{ end }}
+    </div>
+  </section>
+</div>
+
+{{ end }}

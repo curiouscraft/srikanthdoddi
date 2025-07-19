@@ -1,0 +1,48 @@
+baseURL = "https://staffeng.com"
+languageCode = 'en-us'
+title = "Engineering the Path: From Writing Code to Leading Teams"
+copyright = "Will Larson"
+theme = 'ananke'
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[pagination]
+  pagerSize = 10000
+
+[markup.goldmark.renderer]
+  unsafe= true
+
+[params]
+  recent_posts_number = 10000
+  images = ["/static/author.png"]
+  custom_css = ["/static/pygments.css"]
+  background_color_class = 'bg-white'
+  body_classes = "avenir bg-white"
+  [params.banner]
+    enabled = false
+    bg_color = 'bg-washed-yellow'
+  [params.Author]
+    name = "Will Larson"
+[menu]
+  [[menu.main]]
+    weight = 600
+    name = "Stories"
+    url = "/stories/"
+  [[menu.main]]
+    weight = 700
+    name = "Guides"
+    url = "/guides/"
+  [[menu.main]]
+    weight = 750
+    name = "Book"
+    url = "/book/"    
+  [[menu.main]]
+    weight = 900
+    name = "Podcast"
+    url = "https://podcast.staffeng.com/"
+  [[menu.main]]
+    weight = 1000
+    name = "About"
+    url = "/about/"
