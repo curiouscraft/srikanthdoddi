@@ -3,7 +3,6 @@ title: Promotion packets
 url: /guides/promo-packets
 date: '2020-08-08'
 weight: 15000
-book_section: Getting the title where you are
 ---
 
 
