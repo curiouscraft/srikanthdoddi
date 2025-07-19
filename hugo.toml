@@ -1,6 +1,6 @@
-baseURL = "https://www.techleadmanager.com/"
+baseURL = "https://techleadmanager.com/"
 languageCode = 'en-us'
-title = "Engineering the Path: From Writing Code to Leading Teams!"
+title = "Staff Engineer: Leadership beyond the management track"
 copyright = "Will Larson"
 theme = 'ananke'
 
