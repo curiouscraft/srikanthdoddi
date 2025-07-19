@@ -21,7 +21,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: HUGO_ENV=production hugo --minify --buildDrafts
+        run: HUGO_ENV=production hugo --minify --buildDrafts --baseURL "https://techleadmanager.com/"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
