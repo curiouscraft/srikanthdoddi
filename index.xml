@@ -1,4 +1,168 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Staff Engineer: Leadership beyond the management track!</title><link>https://techleadmanager.com/</link><description>Recent content on Staff Engineer: Leadership beyond the management track!</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Will Larson</copyright><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://techleadmanager.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Adam Bender - Principal Software Engineer at Google</title><link>https://techleadmanager.com/stories/adam-bender/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/stories/adam-bender/</guid><description>&lt;p>&lt;span class="date fr">October, 2022&lt;/span>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>From Code to Influence: A Software Engineer’s Journey</title><link>https://techleadmanager.com/</link><description>Recent content on From Code to Influence: A Software Engineer’s Journey</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Will Larson</copyright><lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://techleadmanager.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Flexing Your Leadership Style</title><link>https://techleadmanager.com/guides/flexing-leadership-style/</link><pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/flexing-leadership-style/</guid><description>&lt;blockquote>
+&lt;p>One of the most powerful traits in effective leaders isn’t just decisiveness or vision—it’s the ability to adapt. In my own leadership journey, I’ve realized that different situations, teams, and even individuals need different things from a leader. You don’t become a better leader by always taking charge. Sometimes, you do it by stepping back.&lt;br>
+- &lt;a href="https://techleadmanager.com/stories/tanya-rehman">Tanya Rehman&lt;/a>&lt;/p>&lt;/blockquote>
+&lt;p>The &lt;a href="https://en.wikipedia.org/wiki/Tannenbaum_and_Schmidt_Continuum">Tannenbaum and Schmidt Leadership Continuum&lt;/a> models leadership not as a fixed trait, but as a &lt;strong>sliding scale of authority and freedom&lt;/strong>. It illustrates seven leadership styles ranging from &lt;strong>manager-centered&lt;/strong> to &lt;strong>team-centered&lt;/strong>.&lt;/p>
+&lt;p>This model is especially helpful for engineers and tech leads transitioning into &lt;strong>Staff-plus roles&lt;/strong>, where leadership is increasingly about &lt;strong>influence&lt;/strong> and &lt;strong>adaptability&lt;/strong>, not command-and-control.&lt;/p>
+&lt;h2 id="the-full-continuum">The full continuum&lt;/h2>
+&lt;p>Below is a breakdown of the seven styles from the Tannenbaum-Schmidt model:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Style&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Tells&lt;/strong>&lt;/td>
+&lt;td>Manager makes the decision and announces it. No team input.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Sells&lt;/strong>&lt;/td>
+&lt;td>Manager makes the decision and explains reasoning to gain team buy-in.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Suggests&lt;/strong>&lt;/td>
+&lt;td>Manager presents decision and welcomes questions or feedback.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Consults&lt;/strong>&lt;/td>
+&lt;td>Manager outlines the problem, invites team input, then makes the decision.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Joins&lt;/strong>&lt;/td>
+&lt;td>Manager and team brainstorm options together; manager makes final call.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Delegates&lt;/strong>&lt;/td>
+&lt;td>Manager defines boundaries and lets the team decide within those constraints.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Abdicates&lt;/strong>&lt;/td>
+&lt;td>Team has full autonomy to explore, decide, and act. Manager provides minimal guidance.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>This continuum shows that leadership is &lt;strong>not binary&lt;/strong>—instead, it&amp;rsquo;s a matter of &lt;strong>how much control you retain versus how much freedom you grant&lt;/strong>.&lt;/p>
+&lt;h2 id="why-leadership-flexibility-matters">Why leadership flexibility matters&lt;/h2>
+&lt;p>Rigid leadership (always using one style) can stifle innovation or create friction. Conversely, flexing your approach based on &lt;strong>urgency, team experience, and risk level&lt;/strong> leads to better outcomes and healthier team dynamics.&lt;/p>
+&lt;p>For example:&lt;/p>
+&lt;ul>
+&lt;li>Use &lt;strong>Tells&lt;/strong> during incidents or high-risk decisions.&lt;/li>
+&lt;li>Use &lt;strong>Joins&lt;/strong> or &lt;strong>Delegates&lt;/strong> during long-term planning or innovation projects.&lt;/li>
+&lt;li>Use &lt;strong>Consults&lt;/strong> or &lt;strong>Suggests&lt;/strong> when trust is being built or expertise is uneven.&lt;/li>
+&lt;/ul>
+&lt;p>In Staff-plus roles, your ability to pick the &lt;em>right style at the right time&lt;/em> is as critical as technical execution.&lt;/p>
+&lt;h2 id="internal-leadership-visibility">Internal leadership visibility&lt;/h2>
+&lt;p>Being a flexible leader only matters if people can see and understand it. To create internal visibility:&lt;/p>
+&lt;ul>
+&lt;li>Explain your decision-making style choices in project kickoffs or retros.&lt;/li>
+&lt;li>Share leadership shifts in internal documentation or postmortems.&lt;/li>
+&lt;li>Use team rituals (like demos or syncs) to showcase inclusive decision-making.&lt;/li>
+&lt;li>Show how you’ve helped team members grow into decision-makers by gradually shifting toward &lt;strong>Delegates&lt;/strong> or &lt;strong>Abdicates&lt;/strong>.&lt;/li>
+&lt;/ul>
+&lt;p>Documenting how and when you apply the continuum demonstrates self-awareness and emotional intelligence—key traits for Staff-plus leaders.&lt;/p>
+&lt;h2 id="executive-visibility">Executive visibility&lt;/h2>
+&lt;p>Executives value scalable leadership. That means:&lt;/p>
+&lt;ul>
+&lt;li>Empowering others to make good decisions.&lt;/li>
+&lt;li>Creating clarity without micromanaging.&lt;/li>
+&lt;li>Knowing when &lt;em>not&lt;/em> to lead directly.&lt;/li>
+&lt;/ul>
+&lt;p>Use your &lt;a href="https://techleadmanager.com/guides/promo-packets">promotion packet&lt;/a> to showcase times you&amp;rsquo;ve moved along the continuum—especially toward &lt;strong>Joins&lt;/strong>, &lt;strong>Delegates&lt;/strong>, and &lt;strong>Abdicates&lt;/strong>—to develop leadership in others.&lt;/p>
+&lt;p>You can also:&lt;/p>
+&lt;ul>
+&lt;li>Include reasoning behind your style in planning docs.&lt;/li>
+&lt;li>Share how shifting leadership led to improved outcomes.&lt;/li>
+&lt;li>Reflect on leadership balance during strategy reviews with your manager&amp;rsquo;s manager.&lt;/li>
+&lt;/ul>
+&lt;h2 id="external-visibility">External visibility&lt;/h2>
+&lt;p>You can strengthen your external credibility by teaching this framework through:&lt;/p>
+&lt;ul>
+&lt;li>Blog posts analyzing how you led differently across projects.&lt;/li>
+&lt;li>Conference talks about leading distributed or high-autonomy teams.&lt;/li>
+&lt;li>Podcasts on decision-making and psychological safety.&lt;/li>
+&lt;li>Case studies or internal playbooks demonstrating leadership transitions.&lt;/li>
+&lt;/ul>
+&lt;p>Sharing how you&amp;rsquo;ve moved across the continuum not only elevates your voice—it helps others grow into thoughtful leaders.&lt;/p>
+&lt;h2 id="should-you-focus-on-leadership-style-flexibility">Should &lt;em>you&lt;/em> focus on leadership style flexibility?&lt;/h2>
+&lt;p>If you&amp;rsquo;re always leading from the same position on the continuum, you&amp;rsquo;re missing opportunities to empower your team and grow yourself.&lt;/p>
+&lt;p>Ask yourself:&lt;/p>
+&lt;ul>
+&lt;li>Have I ever fully delegated or abdicated a decision?&lt;/li>
+&lt;li>Do I involve the team more now than I did a year ago?&lt;/li>
+&lt;li>Am I stuck in &amp;ldquo;Tells&amp;rdquo; mode because it feels safer?&lt;/li>
+&lt;/ul>
+&lt;p>Flexing along the continuum builds trust, resilience, and scale—exactly what organizations look for in Staff-plus engineers.&lt;/p>
+&lt;hr>
+&lt;blockquote>
+&lt;p>🧠 &lt;em>&amp;ldquo;Leadership is about reading the room—and then choosing the tone.&amp;rdquo;&lt;/em>&lt;br>
+The Tannenbaum-Schmidt Continuum gives you the vocabulary and structure to do that intentionally.&lt;/p>&lt;/blockquote></description></item><item><title>Climbing the Freedom Ladder</title><link>https://techleadmanager.com/guides/freedom-ladder/</link><pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/freedom-ladder/</guid><description>&lt;blockquote>
+&lt;p>If you want to scale your leadership, you have to scale trust. That means letting go of control—not blindly, but progressively.&lt;br>
+- &lt;a href="https://techleadmanager.com/stories/adrian-lee">Adrian Lee&lt;/a>&lt;/p>&lt;/blockquote>
+&lt;p>The &lt;strong>Freedom Ladder&lt;/strong> is a simple but powerful tool for thinking about how leaders delegate work and decision-making. At each rung of the ladder, the balance between &lt;strong>managerial control&lt;/strong> and &lt;strong>individual autonomy&lt;/strong> shifts—until responsibility is fully owned by the contributor.&lt;/p>
+&lt;p>This model is especially useful for Staff-plus engineers who need to &lt;strong>scale impact&lt;/strong> by empowering others, not just doing the work themselves.&lt;/p>
+&lt;h2 id="what-is-the-freedom-ladder">What is the Freedom Ladder?&lt;/h2>
+&lt;p>The Freedom Ladder defines five levels of autonomy:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Wait until told&lt;/strong> – The individual takes no action without instruction.&lt;/li>
+&lt;li>&lt;strong>Ask what to do next&lt;/strong> – The individual signals readiness, but defers decision-making.&lt;/li>
+&lt;li>&lt;strong>Suggest, check before acting&lt;/strong> – The individual proposes action, manager approves.&lt;/li>
+&lt;li>&lt;strong>Report afterwards&lt;/strong> – The individual acts independently, then updates the manager.&lt;/li>
+&lt;li>&lt;strong>Free to act, routine reporting only&lt;/strong> – Full autonomy within defined boundaries.&lt;/li>
+&lt;/ol>
+&lt;p>Each step up the ladder gives the individual more &lt;strong>challenge and fulfillment&lt;/strong>, while freeing the manager to focus on &lt;strong>strategic objectives&lt;/strong>.&lt;/p>
+&lt;p>The ladder implicitly addresses varying &lt;strong>levels of grip&lt;/strong>: how tightly or loosely a manager holds control over outcomes. That grip should shift based on the person&amp;rsquo;s experience, the risk of the work, and the urgency of results.&lt;/p>
+&lt;h2 id="why-it-matters-at-staff-plus-level">Why it matters at Staff-plus level&lt;/h2>
+&lt;p>In a Staff-plus role, &lt;strong>you are the system&lt;/strong>. You aren’t just delivering on your own work—you’re enabling others. The Freedom Ladder helps you think clearly about &lt;strong>who should own what&lt;/strong>, and how much autonomy they’re ready for.&lt;/p>
+&lt;p>Some examples:&lt;/p>
+&lt;ul>
+&lt;li>New engineers might start at “Ask what to do next.”&lt;/li>
+&lt;li>A Staff engineer taking on new domain work may be at “Suggest—check before acting.”&lt;/li>
+&lt;li>A senior IC with proven judgment might be operating at “Report afterwards” or “Free to act.”&lt;/li>
+&lt;/ul>
+&lt;p>Helping others &lt;strong>climb this ladder&lt;/strong> is one of the most powerful ways to build a resilient, high-performing team.&lt;/p>
+&lt;h2 id="internal-visibility">Internal visibility&lt;/h2>
+&lt;p>Your role isn’t just to give freedom, but to do so &lt;strong>transparently&lt;/strong>—in a way that shows thoughtful delegation rather than disengagement.&lt;/p>
+&lt;p>You can create internal visibility by:&lt;/p>
+&lt;ul>
+&lt;li>Making expectations explicit: “I trust you to decide and just report back.”&lt;/li>
+&lt;li>Communicating changes in delegation style: “You’ve earned full autonomy here.”&lt;/li>
+&lt;li>Documenting ladders or delegation levels for different projects.&lt;/li>
+&lt;li>Encouraging retros on autonomy and decision-making.&lt;/li>
+&lt;/ul>
+&lt;p>Well-documented and well-explained delegation boosts psychological safety and reinforces that autonomy is earned, not assumed.&lt;/p>
+&lt;h2 id="executive-visibility">Executive visibility&lt;/h2>
+&lt;p>Executives don’t just want to know &lt;em>what&lt;/em> you did—they want to know &lt;em>how&lt;/em> you scaled yourself. Moving your team members up the Freedom Ladder is a powerful narrative in a &lt;a href="https://techleadmanager.com/guides/promo-packets">promotion packet&lt;/a> or stakeholder review.&lt;/p>
+&lt;p>You can show this by:&lt;/p>
+&lt;ul>
+&lt;li>Describing how you reduced your own control on a critical project.&lt;/li>
+&lt;li>Showing growth in a teammate’s decision-making maturity.&lt;/li>
+&lt;li>Highlighting a system or protocol you put in place that lets others act autonomously.&lt;/li>
+&lt;/ul>
+&lt;p>When you increase others’ autonomy responsibly, you increase the system’s capacity—an executive-level trait.&lt;/p>
+&lt;h2 id="external-visibility">External visibility&lt;/h2>
+&lt;p>The Freedom Ladder is also a great tool to share externally as part of your leadership narrative. Consider:&lt;/p>
+&lt;ul>
+&lt;li>Writing a blog post about how you helped an engineer “earn” full autonomy.&lt;/li>
+&lt;li>Giving a talk about scaling trust and ownership in distributed teams.&lt;/li>
+&lt;li>Creating an internal playbook or guide for engineering leads on using the ladder.&lt;/li>
+&lt;li>Coaching others through delegation and control handoff.&lt;/li>
+&lt;/ul>
+&lt;p>When you share how autonomy works in practice—not just theory—you elevate your leadership presence across the org and beyond.&lt;/p>
+&lt;h2 id="should-you-focus-on-the-freedom-ladder">Should &lt;em>you&lt;/em> focus on the Freedom Ladder?&lt;/h2>
+&lt;p>If you find yourself burned out or blocking others, you may be holding on to too much control. Alternatively, if you’ve delegated and chaos ensued, perhaps you jumped rungs too quickly.&lt;/p>
+&lt;p>Use the Freedom Ladder as a &lt;strong>diagnostic tool&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>Are you giving too much freedom without enough support?&lt;/li>
+&lt;li>Are you slowing things down by not trusting others to act?&lt;/li>
+&lt;li>Are your team members clear on where they stand?&lt;/li>
+&lt;/ul>
+&lt;p>Staff-plus leadership isn’t about controlling more—it’s about &lt;strong>controlling less, better&lt;/strong>.&lt;/p>
+&lt;hr>
+&lt;blockquote>
+&lt;p>🧠 &lt;em>&amp;ldquo;The goal isn’t to climb the ladder alone—it’s to build a team that climbs together.&amp;rdquo;&lt;/em>&lt;br>
+Great leaders create space for others to rise, responsibly.&lt;/p>&lt;/blockquote></description></item><item><title>Adam Bender - Principal Software Engineer at Google</title><link>https://techleadmanager.com/stories/adam-bender/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/stories/adam-bender/</guid><description>&lt;p>&lt;span class="date fr">October, 2022&lt;/span>
 &lt;a href="https://www.linkedin.com/in/theadambender">linkedin&lt;/a>&lt;/p>
 &lt;p>&lt;strong>&lt;em>Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do.&lt;/em>&lt;/strong>&lt;/p>
 &lt;p>I&amp;rsquo;m a Principal Engineer at Google. In my day job I lead a team developing web infrastructure for internal enterprise applications. We develop shared UI components, make deploying new applications easier, and coach teams on frontend architecture and accessibility. Google relies on 1000s of internal applications to power everything from our Code Review processes to our financial systems, and from our physical security systems to continuous integration tooling. Often these systems are built by smaller full-stack teams that have to figure out how to harness some very powerful, and complex infrastructure to solve Google-scale business problems. My team&amp;rsquo;s job is to provide tools and libraries to enable the creation of really great webserving options and great UX for our internal systems.&lt;/p>
@@ -842,29 +1006,7 @@ none of them regretted their transition into their current roles.&lt;/p></descri
 &lt;p>It’s particularly valuable to understand when leveling happens within the company’s progress. Some companies advertise roles with level-specific titles, which lets you apply directly to the level you think is appropriate. If you’re hoping for a Staff engineer role, then apply for the Staff engineer job posting. However, many companies use those as provisional titles and finalize them later; other companies are quite rigid. The only way to know is to ask.&lt;/p>
 &lt;p>It may feel very unnatural to take more control over your interview process, and in theory, you might miss out on some opportunities this way, but that’s a good outcome: your goal is to find the best available leadership opportunity, not the first available opportunity.&lt;/p>
 &lt;h2 id="finish-well">Finish well&lt;/h2>
-&lt;p>Even if you skate through the interview process, always &lt;a href="https://staffeng.com/guides/negotiating-the-offer">negotiate the details&lt;/a>, and remember to finish well. Brief your references on the role’s details. Send follow-up emails to interviewers. Accept the offered sell chats and bring thoughtful questions into them. In this case, the last mile is the easiest as long as you take the time to walk it.&lt;/p></description></item><item><title>Find your sponsor</title><link>https://techleadmanager.com/guides/find-your-sponsor/</link><pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/find-your-sponsor/</guid><description>&lt;blockquote>
-&lt;p>Having a sponsor was also definitely important. My manager and I had a fantastic relationship, and I also had a great relationship with my skip-level manager. I think that played a big part as well.
-- &lt;a href="https://techleadmanager.com/stories/ritu-vincent">Ritu Vincent&lt;/a>&lt;/p>&lt;/blockquote>
-&lt;p>As I’ve spoken with more folks trying to reach their first Staff-plus role, most folks run into similar challenges. Many have miscalibrated their own impact and simply haven’t done the work yet to operate at that level: a Staff engineer isn’t just a faster Senior engineer. However, there’s a large cohort who have done the work&amp;ndash;they’re &lt;a href="https://staffeng.com/guides/being-visible">visible across their organization&lt;/a> and have pulled together &lt;a href="https://staffeng.com/guides/promo-packets">a strong promotion packet&lt;/a>&amp;ndash;but are still struggling to have that work recognized.&lt;/p>
-&lt;p>These folks are often frustrated by the distance between their impact and their recognized impact and ask their managers and peers for feedback on closing that gap. They’re told &lt;a href="https://staffeng.com/guides/staff-projects">to complete a staff project&lt;/a> or &lt;a href="https://staffeng.com/guides/create-space-for-others">to create space for others&lt;/a>. For folks who haven’t done the work yet, this is great advice, but for folks who have these checkboxes are a distraction: what they’re really missing is a sponsor willing to push for the recognition of their existing work.&lt;/p>
-&lt;p>It’s common to view promotion systems through the lens of other systems that have evaluated us throughout our lives such as school, but this falsely frames performance evaluation as a solo activity. Whether your company does ad-hoc promotions or &lt;a href="https://lethain.com/perf-management-system/">uses a calibration process&lt;/a>, promotions are a team activity and as &lt;a href="https://twitter.com/jewelia">Julia Grace&lt;/a>, then of Slack, advised me once during a job search, “Don’t play team games alone, you’ll lose.”&lt;/p>
-&lt;h2 id="finding-your-sponsor">Finding your sponsor&lt;/h2>
-&lt;p>The most important member of the team guiding your promotion is you yourself. The second most important person is your organizational sponsor. Lara Hogan has &lt;a href="https://larahogan.me/blog/what-sponsorship-looks-like/">written on sponsorship at length&lt;/a>, but roughly this is the person speaking up for your work in forums of influence and when advocating for constrained resources (like the budget for salary increases).&lt;/p>
-&lt;p>While you’ll likely have a variety of sponsors, in the context of getting promoted—especially to a Staff-plus role—this almost always needs to be your direct manager. They’ll be the person to take your drafted &lt;a href="https://staffeng.com/guides/promo-packets">promotion packet&lt;/a> and turn it into the company’s format. They’ll be the person to advocate for your promotion during a calibration meeting as others drill into your qualifications. They’ll also be the person who has to have an honest conversation with you about the gaps you still have before you’re a strong promotion candidate.&lt;/p>
-&lt;p>While you’ll always need your direct manager engaged as your sponsor, you may need additional sponsorship. If your manager has never promoted someone to a Staff-plus role before, they’re likely going to get surprised or make a misstep along the way. Invest in establishing a relationship further along your management chain. You don’t need to spend much time with your skip-level manager, but if they aren’t familiar enough with your work’s impact to remember it in a meeting two months from now, you’re unlikely to get promoted into a Staff role.&lt;/p>
-&lt;h2 id="activating-your-sponsor">Activating your sponsor&lt;/h2>
-&lt;p>The first step of activating your sponsors is explicitly sharing your goals. “I’m looking to be recognized as a Staff engineer” is a great start. &lt;a href="https://techleadmanager.com/stories/ritu-vincent">Ritu Vincent&lt;/a> mentioned this as her top advice for folks seeking Staff-plus roles,&lt;/p>
-&lt;blockquote>
-&lt;p>People frequently come to me and ask, “What should I do next to reach Staff?” One of the things that I tell them is to be super open and honest with your manager about what you want from your career. A mistake I made early on in my one-on-ones was telling my manager what I thought they wanted to hear, instead of what I actually felt.&lt;/p>&lt;/blockquote>
-&lt;p>Once they’ve identified their sponsors, many folks see their work as complete: it’s up to the sponsor to do the heavy lifting. This usually fails! Sponsors are folks with more organizational capital than bandwidth to deploy that capital, and they’ll help you most when you align the pieces for them. Ask your sponsor how you can support their sponsorship. Owning your career isn’t only about asking for things. It &lt;em>is&lt;/em> about that, but it’s much more about facilitating those things happening.&lt;/p>
-&lt;p>Reviewing your promotion packet collaboratively with your sponsors is a great way to facilitate this conversation. Focus on asking for what the gaps are in a way that doesn’t prompt your sponsor to make up an answer. Most folks forget they can answer questions with, “I don’t know,” and instead make up unhelpful answers if you push them to answer questions they’re uncertain about. If you keep getting answers like, “Work on larger, high impact technical projects,” then you’re asking in the wrong way, the wrong questions, or the wrong person.&lt;/p>
-&lt;p>One starting prompt is, “If I don’t get promoted this cycle, what are some of the likely causes?” Another question worth asking is, “What’s the most effective thing I can do to make myself a stronger candidate?” That said, the best questions are very specific and do a lot of the work for the answerer. Think about how hard it is to answer those questions compared to a question like, “This quarter I completed the API refactor, which I thought would demonstrate Staff-level work, but the schedule slipped a lot, and it ended up frustrating our product managers because their work got dropped. How could I have handled this project more effectively?” The latter question is much easier to give a useful answer to, even if the answerer isn’t too familiar with the details of the project.&lt;/p>
-&lt;p>Finally, remember that activating your sponsor isn’t a transactional thing to do once before your promotion. Build a relationship over time, and put in the work to help them when they need your support. &lt;a href="https://staffeng.com/guides/staying-aligned-with-authority">Stay aligned with their initiatives&lt;/a>. Suppose they need folks to join a working group, volunteer, and put in the work. These folks have a lot of people asking them for things, and they are pretty cognizant of folks who show up right before promotion time. I once had a colleague who rarely visited the office but &lt;em>always&lt;/em> visited the office the week before promotion decisions were made. People noticed.&lt;/p>
-&lt;h2 id="what-if-it-doesnt-work">What if it doesn’t work?&lt;/h2>
-&lt;p>If you find yourself in a situation where you and your manager don’t work together well, which isn’t quite the same thing as &lt;em>liking&lt;/em> each other, then you’re not going to get promoted into a leadership role. Your manager has too direct an influence on your impact and your perceived impact for that to happen. Similarly, you might have an amazing relationship with your manager, who then leaves the company. You’re hardly &lt;em>doomed&lt;/em>, but your promotion clock will likely get reset as you build a relationship with your new manager. (Sometimes, this works out the other way, with your new manager working hard to prove themselves to you by advocating on your behalf.)&lt;/p>
-&lt;p>You’ll cheat yourself if you immediately try to switch teams or companies after running into friction with your manager. Companies generally don’t allow transfers unless your manager approves it, so you may burn a bridge to nowhere that you’re standing on. More importantly, you’ll lose the opportunity to develop your skill of working with folks you don’t immediately click with: it’s not a fun skill to develop, but leadership &lt;em>always&lt;/em> involves influencing and building relationships with those with conflicting goals and styles.&lt;/p>
-&lt;p>If you’ve spent six months proactively trying to make the relationship work, then it probably is time to explore moving teams and to perhaps &lt;a href="https://staffeng.com/guides/deciding-to-switch">consider switching companies&lt;/a>. This is one of many cases where it&amp;rsquo;s extremely helpful to have developed your relationship with your skip-level manager,
-who can help you find a new team, even if you and your manager aren&amp;rsquo;t working together effectively.&lt;/p></description></item><item><title>Writing engineering strategy</title><link>https://techleadmanager.com/guides/engineering-strategy/</link><pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/engineering-strategy/</guid><description>&lt;blockquote>
+&lt;p>Even if you skate through the interview process, always &lt;a href="https://staffeng.com/guides/negotiating-the-offer">negotiate the details&lt;/a>, and remember to finish well. Brief your references on the role’s details. Send follow-up emails to interviewers. Accept the offered sell chats and bring thoughtful questions into them. In this case, the last mile is the easiest as long as you take the time to walk it.&lt;/p></description></item><item><title>Writing engineering strategy</title><link>https://techleadmanager.com/guides/engineering-strategy/</link><pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/engineering-strategy/</guid><description>&lt;blockquote>
 &lt;p>I kind of think writing about engineering strategy is hard because good strategy is pretty boring, and it&amp;rsquo;s kind of boring to write about. Also I think when people hear &amp;ldquo;strategy&amp;rdquo; they think &amp;ldquo;innovation&amp;rdquo; - &lt;a href="https://twitter.com/skamille/status/1328763503973429250">Camille Fournier&lt;/a>&lt;/p>&lt;/blockquote>
 &lt;p>Few companies understand their engineering strategy and vision. One consequence of this uncertainty is the industry belief that these documents are difficult to write. In some conversations, it can feel like you&amp;rsquo;re talking about something mystical, but these are just mundane documents. The reality is that good engineering strategy is boring and that it&amp;rsquo;s &lt;em>easier&lt;/em> to write an effective strategy than a bad one.&lt;/p>
 &lt;p>To write an engineering strategy, write five design documents, and pull the similarities out. That&amp;rsquo;s your engineering strategy. To write an engineering vision, write five engineering strategies, and forecast their implications two years into the future. That&amp;rsquo;s your engineering vision.&lt;/p>
@@ -1127,84 +1269,7 @@ That said, it&amp;rsquo;s more than just the raw compensation. It&amp;rsquo;s al
 &lt;/ul>
 &lt;p>It can be hard to know if a given role at a given company is over the threshold, and it&amp;rsquo;s hard to ask the other Staff-plus folks already at the company because it&amp;rsquo;s likely they didn&amp;rsquo;t negotiate these aspects (perhaps because they were promoted from within and never given the opportunity). As a rule of thumb, if a company has more than twenty and fewer than five hundred employees, it&amp;rsquo;s pretty unlikely they are going to do much custom work for you unless you&amp;rsquo;re coming into a quasi-executive role&amp;ndash;they simply don&amp;rsquo;t have the operational ability to do so. However, if a company has thousands of folks but only a dozen at your level, it&amp;rsquo;s fairly likely they&amp;rsquo;re open to negotiating bespoke terms.&lt;/p>
 &lt;p>It&amp;rsquo;s important to be strategic about what you negotiate for. If you hold firm on First Class flights for all your business travel, you &lt;em>might&lt;/em> get it, but it&amp;rsquo;ll probably also send a message about your priorities that the company doesn&amp;rsquo;t like.&lt;/p>
-&lt;p>Whatever you attempt to negotiate, take the time to frame your request in a narrative of why it&amp;rsquo;s important for you. For example, I worked with one senior candidate who framed their request for an extended exercise window in the context of having just bought a house and recently exercising their previous company&amp;rsquo;s equity after leaving. That&amp;rsquo;s a lot more palatable than just asking for more cash compensation. The right narrative gets the negotiation done and does it without generating a negative signal about your motivations.&lt;/p></description></item><item><title>Getting the title where you are</title><link>https://techleadmanager.com/guides/getting-the-title-where-you-are/</link><pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/getting-the-title-where-you-are/</guid><description>&lt;blockquote>
-&lt;p>The best advice I&amp;rsquo;ve heard is that often reaching Staff is a combination of luck, timing, and work.
-- &lt;a href="https://techleadmanager.com/stories/bert-fan">Bert Fan&lt;/a>&lt;/p>&lt;/blockquote>
-&lt;p>Most technology companies have a &amp;ldquo;career level,&amp;rdquo; which is intended to be the highest level that most folks achieve. Senior engineer is the career level at most companies. While you might get let go for not moving from entry-level engineer to mid-level engineer quickly enough,
-most companies have no expectation that you&amp;rsquo;ll ever go from Senior to Staff.
-Six years at mid-level? Ah, that&amp;rsquo;s a problem.
-Twenty years at Senior? Sure, that&amp;rsquo;s fine.&lt;/p>
-&lt;p>More than the expectation of progress going away, companies&amp;rsquo; promotion systems
-will often impede your further progress once you attain the career level.
-Sometimes the folks who already have Staff engineer titles are protective
-of diluting their prestige.
-In other cases, organizations may be wary of having multiple Staff engineers on a single team
-due to team health or budgetary concerns.
-However, I think the strongest source of friction is that
-the nature of the job changes. A Staff engineer isn&amp;rsquo;t a better Senior engineer,
-but someone who&amp;rsquo;s moved into fulfilling one of the &lt;a href="https://staffeng.com/guides/staff-archetypes">Staff archetypes&lt;/a>.&lt;/p>
-&lt;p>Even after you&amp;rsquo;ve developed the prerequisite skills to become a Staff engineer, there will still be one last hurdle: getting your company to grant you the Staff title. For some, this process is a relative non-event, perhaps taking one or two cycles longer than anticipated but ultimately succeeding, and for others, it may not happen at all at their current company. About two-thirds of the Staff engineers I surveyed attained their title as a promotion at the company they were already working at, and the remaining third changed companies to attain the title.&lt;/p>
-&lt;p>If pursuing that sort of role &lt;em>is&lt;/em> your goal, then take the promotion to your career level as an opportunity to reset your approach to navigating your career. From that point onward, there is no standard path to follow. The promotion and performance system will no longer be designed around attaining a timely promotion and may, at times, take on the feel of gatekeeping.&lt;/p>
-&lt;p>To go further, &lt;em>you&lt;/em> will have to take more deliberate control of your progression, and this chapter shares the tools that have worked for folks who&amp;rsquo;ve made the progression ahead of you.&lt;/p>
-&lt;h2 id="finding-your-trail">Finding your trail&lt;/h2>
-&lt;p>If you&amp;rsquo;ve been relying on your manager to steer your career up to this point, the transition to a self-directed career can feel rather abrupt.
-There are many books about &lt;a href="https://www.learninpublic.org/">managing your software career&lt;/a>,
-but most focus from your first job until you reach Senior engineer.
-Few focus on managing your career beyond the Senior title,
-which is where this chapter focuses:&lt;/p>
-&lt;ul>
-&lt;li>Your &lt;strong>&lt;a href="https://staffeng.com/guides/promo-packets">promotion packet&lt;/a>&lt;/strong> is your foundational tool to demystify the Staff promotion, prioritize the right personal development to ensure you get there and activate your internal sponsors and network in support of your progression&lt;/li>
-&lt;li>There is a widespread belief that moving into a Staff-plus role requires successfully completing a &lt;strong>&lt;a href="https://staffeng.com/guides/staff-projects">Staff project&lt;/a>&lt;/strong>. This section discusses the reality that most Staff engineers &lt;em>do not&lt;/em> have a Staff project but also describes how to approach one if you&amp;rsquo;re at a company that does require them&lt;/li>
-&lt;li>A frequent complaint from engineers is that they&amp;rsquo;re not &amp;ldquo;in the room&amp;rdquo; where decisions happen, and they&amp;rsquo;re usually right: there is a room, and they&amp;rsquo;re not in it. What&amp;rsquo;s less frequently acknowledged is that you&amp;rsquo;re probably not in the room for a good reason. This section describes &lt;strong>&lt;a href="https://staffeng.com/guides/getting-in-the-room">how to get into the room, and also how to stay there&lt;/a>&lt;/strong>&lt;/li>
-&lt;li>Finally, you won&amp;rsquo;t get promoted if your company&amp;rsquo;s leadership doesn&amp;rsquo;t know who you are. How do you &lt;strong>&lt;a href="https://staffeng.com/guides/being-visible">become visible internally&lt;/a>&lt;/strong> without hogging all the oxygen?&lt;/li>
-&lt;/ul>
-&lt;p>Apply these techniques consistently, and you&amp;rsquo;ll be on the way towards a Staff title, although even the best-laid plans falter &lt;a href="https://staffeng.com/guides/deciding-to-switch">if you&amp;rsquo;re conducting them at the wrong company&lt;/a>.&lt;/p>
-&lt;h2 id="opportunity-is-unevenly-distributed">Opportunity is unevenly distributed&lt;/h2>
-&lt;p>One inconvenient reality you&amp;rsquo;ll encounter in pursuit of a Staff role is that
-opportunity at any given company is unevenly distributed.
-If your company leadership views infrastructure engineering as inherently
-&amp;ldquo;more complex&amp;rdquo; or &amp;ldquo;more leveraged&amp;rdquo; than product engineering, then
-opportunity will consolidate within infrastructure teams.
-If you work in an organization that emphasizes shipping features,
-then it will be easier to be rewarded for fixing an outage you cause
-than preventing future outages.
-Your work will be more visible if you work in your company&amp;rsquo;s headquarters than in a &lt;a href="https://lethain.com/how-to-start-distributed-engineering-office/">distributed office&lt;/a>.&lt;/p>
-&lt;p>Many companies believe they have a vested interest in pretending opportunity is evenly distributed, even when it clearly isn&amp;rsquo;t.
-This makes it hard to have conviction these dynamics exist,
-but the trends become clear as you collect more data.&lt;/p>
-&lt;p>Once you recognize these challenges, you have to assess how fixable they are and where you want to prioritize your energy.
-It&amp;rsquo;s much simpler to align your approach with these unspoken currents rather than reroute the river creating them.
-If you choose to address the causes of inequality,
-start by finding a senior sponsor who supports the cause.
-You can only change a system with sponsorship from within.&lt;/p>
-&lt;h2 id="should-you-try-management">Should you try management?&lt;/h2>
-&lt;p>Most folks who reach Staff-plus roles &lt;strong>do not&lt;/strong> spend time in engineering management, but some do.
-It&amp;rsquo;s easy to view this as a critical, life-changing decision, but that&amp;rsquo;s probably overthinking it a bit.
-If you want to give management a try, you should.
-Most companies understand that management isn&amp;rsquo;t the right role for everyone and will be glad to let
-you rotate back into an engineering role.&lt;/p>
-&lt;p>Those that try management gain a broader perspective that helps them even when they
-move back into a software engineering role.
-This was &lt;a href="https://staffeng.com/stories/dan-na">Dan Na&lt;/a>&amp;rsquo;s experience,&lt;/p>
-&lt;blockquote>
-&lt;p>I still enjoy both shipping code and running teams, and I think the ability to do both at a high level is critical for long-term engineering success. Charity Majors has a fantastic blog post on this topic that I recommend reading: &amp;ldquo;&lt;a href="https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/">The Engineer/Manager Pendulum&lt;/a>&amp;rdquo;.
-Charity argues that &amp;ldquo;manager career path vs engineering career path&amp;rdquo; is a false dichotomy, and taking time to alternate between both roles makes you better at both. This maps to my own experience. I&amp;rsquo;m a better manager because I know how terrible it is to be an IC on a poorly planned project, and I&amp;rsquo;m a better IC because I know how and when to sound an alarm when a project is going poorly.&lt;/p>&lt;/blockquote>
-&lt;p>&lt;a href="https://staffeng.com/stories/ritu-vincent">Ritu Vincent&lt;/a> shared a similar perspective,&lt;/p>
-&lt;blockquote>
-&lt;p>I do &lt;a href="https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/">pendulum&lt;/a> a decent amount because I&amp;rsquo;m interested in so many things on both sides of the career ladder. I&amp;rsquo;m interested in growing people, I really like working with recruiting, I&amp;rsquo;m one of those engineers that actually enjoy interviewing, I like understanding how teams grow. But I also really like writing code, and after I spend some time managing, I want to get back into the code and hack around a little bit.&lt;/p>&lt;/blockquote>
-&lt;p>Some folks try management and end up hating it.
-&lt;a href="https://staffeng.com/stories/joy-ebertz">Joy Ebertz&lt;/a> didn&amp;rsquo;t care for engineering management much,&lt;/p>
-&lt;blockquote>
-&lt;p>I actually managed for about a year and a half in the middle of my time at Box and found that I hated it (you can find more about that in my &lt;a href="https://code.likeagirl.io/why-i-left-management-the-engineering-technical-track-vs-management-track-abef5b1d914d">blog post on that topic&lt;/a>). That said, I found that there is actually a lot of overlap between management and staff+ roles in most companies.&lt;/p>&lt;/blockquote>
-&lt;p>Even though Joy hated her management experience, she felt it might have helped her longer-term career,&lt;/p>
-&lt;blockquote>
-&lt;p>It&amp;rsquo;s possible that if I hadn&amp;rsquo;t taken a meander through management, I would have gotten to Staff sooner. That said, I don&amp;rsquo;t regret doing it, and I learned a lot about how people think, how organizations are run, and how larger projects are prioritized. All of these have continued to help me do my job on the IC track and likely helped me further get promoted to Senior Staff. While I do think it&amp;rsquo;s distinctly possible that it slowed down when I got to Staff, I&amp;rsquo;m actually less sure for the next level - I think there&amp;rsquo;s a real chance I would have hung out at Staff longer without it. All of this is to say that even though I didn&amp;rsquo;t take the most direct route, I still learned a lot that has helped me out long term.&lt;/p>&lt;/blockquote>
-&lt;p>The final caveat I&amp;rsquo;d give for someone considering this switch is that
-people management is bigger than simply maximizing your trajectory to a Staff engineer role. You&amp;rsquo;ll have a profound impact on the folks you support as a manager, and if you take it on with the wrong motivations, you&amp;rsquo;ll regret the experience, but not nearly as much as your team will. If you&amp;rsquo;re motivated to help your team grow and succeed, then go ahead and do it; if you&amp;rsquo;re only doing it for yourself, then don&amp;rsquo;t.&lt;/p>
-&lt;h2 id="a-semi-permeable-boundary">A semi-permeable boundary&lt;/h2>
-&lt;p>As a final caveat, Staff-plus titles are leadership positions. It&amp;rsquo;s uniquely challenging to gain a leadership position if the existing leadership team doesn&amp;rsquo;t identify with you as a potential member. What that means is, unfortunately, folks with the privilege of &lt;em>seeming&lt;/em> &lt;em>like&lt;/em> they are already part of the existing leadership team have a much easier time making the transition.&lt;/p>
-&lt;p>If you read through this chapter and become increasingly frustrated that you&amp;rsquo;re &lt;em>already&lt;/em> doing everything here, then it&amp;rsquo;s possible that you&amp;rsquo;re experiencing that structural disadvantage. Roughly half the women I spoke with had to change companies to attain the Staff title, whereas promotion friction come up less frequently during discussions with men.&lt;/p>
-&lt;p>Don&amp;rsquo;t ignore those experiences&amp;ndash;they&amp;rsquo;re real and many folks feel stymied by them&amp;ndash;but also take hope that there are many successful role models out there regardless of how you identify and how you want to plot your course towards Staff engineer.&lt;/p></description></item><item><title>Finding the right company</title><link>https://techleadmanager.com/guides/finding-the-right-company/</link><pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/finding-the-right-company/</guid><description>&lt;p>There are only a few magic spells to attain a Staff-plus role: negotiate for the title while switching roles or find a supportive environment to “bake in place” while building your internal credibility with an empowered sponsor who’ll advocate for you. The most important reagent in both spells is picking the right company to perform them at.&lt;/p>
+&lt;p>Whatever you attempt to negotiate, take the time to frame your request in a narrative of why it&amp;rsquo;s important for you. For example, I worked with one senior candidate who framed their request for an extended exercise window in the context of having just bought a house and recently exercising their previous company&amp;rsquo;s equity after leaving. That&amp;rsquo;s a lot more palatable than just asking for more cash compensation. The right narrative gets the negotiation done and does it without generating a negative signal about your motivations.&lt;/p></description></item><item><title>Finding the right company</title><link>https://techleadmanager.com/guides/finding-the-right-company/</link><pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/finding-the-right-company/</guid><description>&lt;p>There are only a few magic spells to attain a Staff-plus role: negotiate for the title while switching roles or find a supportive environment to “bake in place” while building your internal credibility with an empowered sponsor who’ll advocate for you. The most important reagent in both spells is picking the right company to perform them at.&lt;/p>
 &lt;p>The good news if you’re applying to a new company is that while you might invest &lt;em>weeks&lt;/em> of energy into determining if you can get a Staff role there, you won’t need to invest &lt;em>years&lt;/em>. On the other hand, if you’re looking for a company to join and grow within, you’re embarking on a years-long journey into an unknown organization. This is a daunting decision to make, and picking the right company for &lt;em>you&lt;/em> will have a considerable impact on whether you attain a Staff-plus role.&lt;/p>
 &lt;h2 id="find-a-place-that-disproportionately-values-you">Find a place that disproportionately values you&lt;/h2>
 &lt;p>If career velocity is your aim, then join a company that, for whatever reason, disproportionately values what you’re good at. For example, Fastly valued &lt;a href="https://staffeng.com/stories/keavy-mcminn">Keavy’s API design experience&lt;/a>, and Stripe valued &lt;a href="https://staffeng.com/stories/dmitry-petrashko">Dmitry’s work on compilers&lt;/a>. If there’s a gap matching your particular shape that’s limiting their success, your impact on the company will be uniquely high.&lt;/p>
@@ -1363,51 +1428,7 @@ Even if you don&amp;rsquo;t share what you&amp;rsquo;ve written, it&amp;rsquo;ll
 &lt;h2 id="taking-the-plunge">Taking the plunge&lt;/h2>
 &lt;p>If you’re almost at the Staff promotion in your current company, there is absolutely another company out there that will give you the Staff title. Whether or not you’ll enjoy working there or be supported after getting there, that’s a lot harder to predetermine. If your internal reputation is damaged or if you’ve been repeatedly on the cusp of promotion but a victim to a moving criteria line, then you should seriously consider switching roles if the title is important to you. At some point, you have to hear what your current company is telling you.&lt;/p>
 &lt;p>Conversely, if you’re happy in your current role outside of the title, consider if you can be more intentional about pursuing your promotion rather than leaving. Many folks hit a rut in their promotion path to Staff-plus, and using techniques like the &lt;a href="https://staffeng.com/guides/promo-packets">promotion packet&lt;/a> can help you get unstuck. If you’ve used all the approaches, taken your self-development seriously, and still can’t get there&amp;ndash;it’s probably time to leave.&lt;/p>
-&lt;p>That said, it’s easy to overthink these things. Few folks tell their decade-past story of staying at or leaving some job.&lt;/p></description></item><item><title>Being visible</title><link>https://techleadmanager.com/guides/being-visible/</link><pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/being-visible/</guid><description>&lt;blockquote>
-&lt;p>When folks, particularly women and non-binary people, come to me for advice, I think they expect me to talk about how to grow as a technical leader, and are surprised when I say &amp;ldquo;You&amp;rsquo;ve probably already got the technical chops, what you need to do is work on your reputation at the company.&amp;rdquo; For better or for worse, you can&amp;rsquo;t get to Staff without a good reputation.
-- &lt;a href="https://techleadmanager.com/stories/katie-sylor-miller">Katie Sylor-Miller&lt;/a>&lt;/p>&lt;/blockquote>
-&lt;p>&lt;a href="https://staffeng.com/stories/bert-fan">Bert Fan&lt;/a>&amp;rsquo;s best advice for those trying to reach a Staff-plus role was,
-&amp;ldquo;Often reaching Staff is a combination of luck, timing, and work.&amp;rdquo;
-Timing is a particular sort of luck, so you can simplify this even further down to just luck and work.&lt;/p>
-&lt;p>If you&amp;rsquo;re fortunate, then you won&amp;rsquo;t have to pursue a deliberate path to a Staff-plus role. You&amp;rsquo;re already working on your company&amp;rsquo;s top priorities, have a well-positioned manager who cares about supporting your career and are working from your company&amp;rsquo;s headquarters office. If you&amp;rsquo;re starting with none of those things, getting promoted will be quite a challenge, but don&amp;rsquo;t count yourself out: it&amp;rsquo;s easy to underestimate your own role in getting lucky.&lt;/p>
-&lt;p>One of the most effective ways to get luckier is to be more visible within your organization. There are, of course, very quick, very negative ways to increase your visibility, so I&amp;rsquo;ll refine the statement a bit. Your goal is to be known for good things while minimizing the organizational bandwidth you consume to do so.&lt;/p>
-&lt;h2 id="why-visibility-matters">Why visibility matters&lt;/h2>
-&lt;p>&lt;a href="https://techleadmanager.com/stories/katie-sylor-miller">Katie Sylor-Miller&lt;/a> describes visibility as a critical piece of getting promoted to Staff,&lt;/p>
-&lt;blockquote>
-&lt;p>Something I haven&amp;rsquo;t talked about enough is communication and transparency. A big part of being promoted to Staff is making sure that your work is visible, that people know your name and you have a good reputation.&lt;/p>&lt;/blockquote>
-&lt;p>Staff-plus roles are &lt;em>leadership&lt;/em> roles, and by recognizing you with such a position, the company is bringing you into its leadership team. The existing members of that team want to be comfortable that they&amp;rsquo;re expanding their ranks with folks they believe in, and they can&amp;rsquo;t believe in you if they don&amp;rsquo;t know you.&lt;/p>
-&lt;p>If you&amp;rsquo;re operating without much visibility within your company, this may likely come across as cliquey or gatekeeping behavior. Conversely, if you are well-known internally, this may feel like the necessary cost for maintaining a consistent set of expectations and criteria for folks taking on leadership roles &amp;ndash; how could you maintain consistency if you are unfamiliar with their work?&lt;/p>
-&lt;hr>
-&lt;p>It&amp;rsquo;s interesting to briefly reflect on how inclusive organizations mitigate the negative gatekeeping aspects of validating folks as appropriate additions to their leadership team. The answer is that they design mechanisms to ensure the &lt;em>full&lt;/em> swath of potential leaders get exposure to the folks who will evaluate them for leadership roles. Conversely, less inclusive organizations inadvertently center access on folks who most aggressively self-advertise.&lt;/p>
-&lt;h2 id="internal-visibility">Internal visibility&lt;/h2>
-&lt;p>The single best way to create internal visibility is to &lt;a href="https://staffeng.com/guides/work-on-what-matters">work on the things that matter&lt;/a> to your company and company leadership. This path is also the most aligned with how a well-managed company will evaluate your contribution.&lt;/p>
-&lt;p>Sometimes that isn&amp;rsquo;t enough, though, and some other strategies are:&lt;/p>
-&lt;ul>
-&lt;li>Write and distribute more long-lived documents, like architecture docs or technical specification&lt;/li>
-&lt;li>Lead (and, to a lesser extent, participate in) company forums like architecture reviews, company all hands, and learning circles&lt;/li>
-&lt;li>Be a cheerleader for your team&amp;rsquo;s and peers&amp;rsquo; work on Slack&lt;/li>
-&lt;li>You can also cheerlead via email instead of Slack&lt;/li>
-&lt;li>&lt;a href="https://lethain.com/weekly-updates/">Share weekly notes&lt;/a> of your work to your team and stakeholders in a way that other folks can get access to your notes if they&amp;rsquo;re interested&lt;/li>
-&lt;li>Contribute to your company&amp;rsquo;s blog&lt;/li>
-&lt;li>Attend, or potentially even host, office hours for your team or org&lt;/li>
-&lt;/ul>
-&lt;p>Find the right mix of activities that leverage your strengths, aren&amp;rsquo;t already overburdened with volume, and feel authentic to you. If you&amp;rsquo;ve never communicated about your work, it may feel awkward to self-promote. You never want to wholly lose that sense of awkwardness&amp;ndash;restraint helps&amp;ndash;but you will have to get comfortable with some of it.&lt;/p>
-&lt;h2 id="executive-visibility">Executive visibility&lt;/h2>
-&lt;p>To be promoted to a leadership role, the most important kind of internal visibility is executive visibility.
-Using the &lt;a href="https://techleadmanager.com/guides/promo-packets">promotion packet&lt;/a>, you will create visibility with your manager,
-but it&amp;rsquo;s helpful to go further.
-It&amp;rsquo;s particularly valuable to find opportunities to build a relationship with your manager&amp;rsquo;s manager,
-but all positive, visibility at that layer will be helpful to you.&lt;/p>
-&lt;p>These are the folks who tend to be in the room that approves promotions into Staff-plus roles,
-and they rarely support folks whose work they don&amp;rsquo;t know.&lt;/p>
-&lt;h2 id="external-visibility">External visibility&lt;/h2>
-&lt;p>It&amp;rsquo;s helpful to complement your internal visibility work with external visibility work. There are many successful Staff-plus engineers with no external presence, but &lt;a href="https://staffeng.com/guides/network-of-peers">many find external visibility contributes to their career&lt;/a>.&lt;/p>
-&lt;p>Compared to an exclusively internal focus, one advantage of building an external presence is that there&amp;rsquo;s a lot more room to create a niche and name for yourself. Internal efforts often end up competing for attention with your peers in a way that external efforts simply don&amp;rsquo;t.&lt;/p>
-&lt;p>In terms of how to create this sort of visibility for yourself and your work, it could be
-giving a conference talk like &lt;a href="https://techleadmanager.com/stories/keavy-mcminn">Keavy McMinn&lt;/a> or &lt;a href="https://staffeng.com/stories/dan-na">Dan Na&lt;/a>, going on a podcast like &lt;a href="https://staffeng.com/stories/michelle-bu">Michelle Bu&lt;/a>, turning a problem into a website and book like &lt;a href="https://techleadmanager.com/stories/katie-sylor-miller">Katie Sylor-Miller&lt;/a>&amp;rsquo;s &lt;em>&lt;a href="https://ohshitgit.com">ohshitgit&lt;/a>&lt;/em>, or creating a mailing list like Stephen Whitworth&amp;rsquo;s &lt;em>&lt;a href="https://highgrowthengineering.substack.com">High Growth Engineering&lt;/a>&lt;/em>.&lt;/p>
-&lt;h2 id="should-you-focus-on-visibility">Should &lt;em>you&lt;/em> focus on visibility?&lt;/h2>
-&lt;p>You can always have more visibility within your organization, but at some point, increasing your visibility is likely reducing the opportunities for others to create visibility for themselves. Internal visibility is not strictly zero-sum, but it&amp;rsquo;s constrained by the attention of the folks you want to see your work.&lt;/p>
-&lt;p>My advice would be to use the &lt;a href="https://techleadmanager.com/guides/promo-packets">promotion packet exercise&lt;/a> to identify if the lack of visibility is likely to hold you back in the promotion process. If so, work to clear that threshold, but not much further. Visibility is a transient currency. Learning and developing yourself is a permanent one; focus on the latter once you&amp;rsquo;ve done the minimum to clear the former&amp;rsquo;s cliff.&lt;/p></description></item><item><title>About StaffEng</title><link>https://techleadmanager.com/about/</link><pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/about/</guid><description>&lt;h2 id="why">Why?&lt;/h2>
+&lt;p>That said, it’s easy to overthink these things. Few folks tell their decade-past story of staying at or leaving some job.&lt;/p></description></item><item><title>About StaffEng</title><link>https://techleadmanager.com/about/</link><pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/about/</guid><description>&lt;h2 id="why">Why?&lt;/h2>
 &lt;p>At most technology companies, you&amp;rsquo;ll reach Senior Software Engineer—the &lt;a href="https://lethain.com/mailbag-beyond-career-level/">career level&lt;/a>—in five to eight years. At that point, your path branches, and you have the opportunity to pursue engineering management or continue down the path of technical excellence to become a Staff Engineer.&lt;/p>
 &lt;p>Over the past few years we&amp;rsquo;ve seen a flurry of books unlocking the engineering manager career path, like Camille Fournier&amp;rsquo;s &lt;a href="https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897">&lt;em>The Manager&amp;rsquo;s Path&lt;/em>&lt;/a>, Julie Zhuo&amp;rsquo;s &lt;a href="https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/">&lt;em>The Making of a Manager&lt;/em>&lt;/a>, and my own &lt;a href="https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186">&lt;em>An Elegant Puzzle&lt;/em>&lt;/a>. The management career isn&amp;rsquo;t an easy one, but increasingly there is a map available.&lt;/p>
 &lt;p>The transition into Staff Engineer—and its further evolutions like Principal Engineer—remains particularly challenging and undocumented. What are the skills you need to develop to reach Staff Engineer? What skills do you need to succeed &lt;em>after&lt;/em> you&amp;rsquo;ve reached it? How do most folks reach this role? What can companies do to streamline the path to Staff Engineer? Will you &lt;em>enjoy&lt;/em> being a Staff Engineer or toil for years for a role that doesn&amp;rsquo;t suit you?&lt;/p>
@@ -1423,67 +1444,7 @@ and
 &lt;em>&lt;a href="https://www.amazon.com/Engineering-Executives-Primer-Impactful-Leadership/dp/1098149483/">The Engineering Executive&amp;rsquo;s Primer&lt;/a>&lt;/em>.
 Working in the technology industry for almost two decades, I&amp;rsquo;ve had the opportunity to serve as CTO at several companies, including Carta and Calm.&lt;/p>
 &lt;p>I&amp;rsquo;ve been fortunate to work with and coach a number of wonderful Staff-plus engineers, but I&amp;rsquo;ve always been a bit uncertain whether my advice was any good. I knew what I thought I needed from the team I was supporting, but was my approach effective? Was I helping their careers or guiding them towards submerged rocks that I couldn&amp;rsquo;t quite see?&lt;/p>
-&lt;p>This project came out of the desire to have a clearer understanding of the Staff-plus role, to ensure organizations I work with or support create room for those roles, and to make me a better coach to the Staff-plus engineers I&amp;rsquo;m fortunate enough to work with.&lt;/p></description></item><item><title>Staff projects</title><link>https://techleadmanager.com/guides/staff-projects/</link><pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/staff-projects/</guid><description>&lt;blockquote>
-&lt;p>There isn&amp;rsquo;t an explicit expectation, nor is it listed anywhere as a formal requirement, but it is understood that you&amp;rsquo;ll complete a Staff Project to get promoted. I can&amp;rsquo;t think of any Staff promotion that didn&amp;rsquo;t include a really strong project, typically a multi-person project where the engineer was the Tech Lead.&lt;br>
-- &lt;a href="https://techleadmanager.com/stories/ritu-vincent">Ritu Vincent&lt;/a>&lt;/p>&lt;/blockquote>
-&lt;p>A popular recurring idea around reaching a Staff-plus role is that first, you need to successfully complete a &amp;ldquo;Staff project.&amp;rdquo; This is a project that is considered complex and important enough that the person who completes it has proven themselves as a Staff engineer. However popular this idea is, if you&amp;rsquo;re pursuing a Staff-plus role, it&amp;rsquo;s important to pierce the mythology of these projects and focus on the experiences of folks who&amp;rsquo;ve walked the path before you.&lt;/p>
-&lt;p>The short answer on Staff projects is that most engineers don&amp;rsquo;t complete one as part of reaching a Staff role, although a large minority do complete one, particularly folks who attain the role via promotion at a company they&amp;rsquo;ve grown up in. For the folks who don&amp;rsquo;t complete one, typically, it&amp;rsquo;s either because they accumulated a track record of success over a longer period without a single capstone or because they switched companies to reach the title.&lt;/p>
-&lt;p>We&amp;rsquo;ll dig into a few different angles on staff projects:&lt;/p>
-&lt;ol>
-&lt;li>Folks who didn&amp;rsquo;t complete Staff projects&lt;/li>
-&lt;li>Folks who did complete Staff projects, including where they don&amp;rsquo;t end up working as planned&lt;/li>
-&lt;li>Identifying and approaching your Staff project&lt;/li>
-&lt;/ol>
-&lt;p>Into the messy details, we go.&lt;/p>
-&lt;h2 id="no-staff-project-required">No Staff project required&lt;/h2>
-&lt;p>When I asked folks whether they had a Staff project, some of the answers were quite concise:&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://staffeng.com/stories/joy-ebertz">Joy Ebertz&lt;/a>, &lt;em>&amp;ldquo;I actually didn&amp;rsquo;t really have a Staff Project.&amp;rdquo;&lt;/em>&lt;/li>
-&lt;li>&lt;a href="https://staffeng.com/stories/diana-pojar">Diana Pojar&lt;/a>, &lt;em>&amp;ldquo;No, I did not have an assigned &amp;lsquo;Staff Project,&amp;rsquo; and that is not something that is part of the promotion process at Slack.&amp;rdquo;&lt;/em>&lt;/li>
-&lt;/ul>
-&lt;p>Some folks were even skeptical of the Staff project concept overall. &lt;a href="https://staffeng.com/stories/nelson-elhage">Nelson Elhage&lt;/a> said,&lt;/p>
-&lt;blockquote>
-&lt;p>I&amp;rsquo;m instinctively a little bit wary of this sort of idea of a staff project, in part because one of the archetypes of Staff engineers that I&amp;rsquo;ve seen are people who don&amp;rsquo;t necessarily run grand projects themselves or do big things. But just are sort of incredibly effective gurus and routers who make the whole engineering organization run better.&lt;/p>&lt;/blockquote>
-&lt;p>There are also folks like &lt;a href="https://staffeng.com/stories/dan-na">Dan Na&lt;/a> or &lt;a href="https://staffeng.com/stories/damian-schenkelman">Damian Schenkelman&lt;/a> who took a detour through engineering management to reach the role. Damian describes bypassing the Staff project,&lt;/p>
-&lt;blockquote>
-&lt;p>I did not. Because of how I grew at Auth0, I kind of &amp;ldquo;skipped that part&amp;rdquo;. As a Director at a startup, I got the opportunity to technically lead a lot of big, critical initiatives, but there was no specific/explicit &amp;ldquo;staff/principal project.&amp;rdquo;&lt;/p>&lt;/blockquote>
-&lt;p>From these stories, it&amp;rsquo;s clear that anyone who tells you that you &lt;em>must&lt;/em> complete a Staff project to reach a Staff-plus title is wrong: there are many avenues to reach Staff-plus titles without doing a Staff project, with &lt;a href="https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/">a stint in engineering management&lt;/a> prominent among them.&lt;/p>
-&lt;h2 id="staff-project-required">Staff project required&lt;/h2>
-&lt;p>However, it&amp;rsquo;s also true that many companies require, or informally enforce, Staff projects for internal promotions, and consequently, many folks do take on a Staff project as part of their role transition.&lt;/p>
-&lt;p>&lt;a href="https://techleadmanager.com/stories/ritu-vincent">Ritu Vincent&lt;/a> describes her experience at Dropbox,&lt;/p>
-&lt;blockquote>
-&lt;p>I definitely had a Staff Project. Back in the day, Dropbox was initially a consumer product that people downloaded and installed on their machines. When we launched Dropbox for Business, there was a request for both your personal and work Dropbox accounts to work simultaneously, including being able to switch across them without needing to log out and log back in.
-The initial implementation was written under immense time pressure, and it ran multiple Dropbox processes. One for your personal account and another for business. My Staff project was to make it so a single Dropbox process could run with multiple users logged in. The hard part was that the project stretched from the kernel all the way to the user interface. I had to understand every single layer of the Dropbox system.
-Initially, we thought it would take six months, and it ended up taking eighteen months. It took up most of the Desktop Client team&amp;rsquo;s resources for quite a while.&lt;/p>&lt;/blockquote>
-&lt;p>&lt;a href="https://staffeng.com/stories/ras-kasa-williams">Ras Kasa Williams&lt;/a> joined an inflight project that he later became the lead on, which served as his Staff project:&lt;/p>
-&lt;blockquote>
-&lt;p>I joined Mailchimp as a Senior engineer. I was immediately added to a project team (which included an Engineering Director and two Principal engineers) meant to build out Mailchimp&amp;rsquo;s first internal, self–service analytics platform.
-A key aspect of this project was being effective and executing at a high level. For better, or for worse, having two other Principal engineers meant expectations for me likely weren&amp;rsquo;t that high. But I was able to jump in immediately and start contributing to core aspects of the project with very little hand-holding from them; by the end, I was one of the key contributors on the team. I would ultimately be formally installed as a tech lead to help continue shepherding that project work as it was absorbed into my current engineering group, Data Services.&lt;/p>&lt;/blockquote>
-&lt;p>Few companies write down their Staff project requirements. They&amp;rsquo;re more frequently the sort of &amp;ldquo;soft gate&amp;rdquo; that&amp;rsquo;s brought up during a promotion meeting, sometimes to the surprise of both the manager and the would-be Staff engineer. The most reliable technique for uncovering these requirements is your &amp;ldquo;sure thing&amp;rdquo; promotion not getting approved, but that isn&amp;rsquo;t much fun. Almost as reliable and much less frustrating is relying on the strategy of &lt;a href="https://staffeng.com/guides/promo-packets">maintaining and getting feedback on your promotion packet&lt;/a> well in advance of your promotion attempt.&lt;/p>
-&lt;h2 id="why-you-should-do-a-staff-project">Why you should do a Staff project&lt;/h2>
-&lt;p>Sometimes it&amp;rsquo;s hard to determine the precise line between gatekeeping and evaluation, and the premise of a Staff project exists in that hazy realm. Taking on a project of immense scope, navigating that ambiguity, and delivering it successfully is an effective way to distinguish folks who&amp;rsquo;ve reached Staff-plus impact, but it&amp;rsquo;s also clear that many folks attain Staff-plus roles without completing such a project.&lt;/p>
-&lt;p>My advice is that although you can attain a Staff-plus role without completing a Staff project, they&amp;rsquo;re a particularly valuable opportunity to develop yourself as an engineer. You will &lt;em>personally&lt;/em> be stretched and grown by this kind of project in a way that you won&amp;rsquo;t be by other varieties of Staff level work.&lt;/p>
-&lt;p>&lt;a href="https://staffeng.com/stories/keavy-mcminn">Keavy McMinn&lt;/a> describes how her Staff project helped her,&lt;/p>
-&lt;blockquote>
-&lt;p>I&amp;rsquo;ve never heard it given a name, but I understand the idea. I did lead and architect that type of project - solving gnarly engineering problems, with large impact for the company - a few times, but unfortunately, they didn&amp;rsquo;t lead to me being promoted. They did lead to my career progression though. Those projects gave me the experience, knowledge, and confidence to position myself differently. Even to give public conference talks or know that &amp;ldquo;I&amp;rsquo;ve done X and could do X again.&amp;rdquo;&lt;/p>&lt;/blockquote>
-&lt;p>Although each of these projects is different, there are a few typical characteristics that capture why they&amp;rsquo;re so effective at stretching you as an engineer:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Complex and ambiguous&lt;/strong> - early in your career, you&amp;rsquo;re given well-defined problems, but as you get deeper into it, you&amp;rsquo;ll increasingly encounter poorly defined or undefined problems, and Staff projects will generally start with a poorly scoped but complex and &lt;em>important&lt;/em> problem. Your project might start with only the assertion that your company&amp;rsquo;s aging monolith is crippling product development. From that broad, unclear (and potentially wrong) statement, you&amp;rsquo;ll have to identify a concrete approach that works.&lt;/li>
-&lt;li>&lt;strong>Numerous and divided stakeholders&lt;/strong> - the easiest projects start with organizational alignment around both the problem and the solution, but your Staff project might likely start with neither. It might be an area which management views as an existential risk, but many engineers feel it is good enough. It might be an area that everyone agrees is a problem, but with strong factional disagreement about approach, for example, disagreement between pursuing a service strategy or reinvesting in your existing monolith.&lt;/li>
-&lt;li>&lt;strong>Named bet where failure matters&lt;/strong> - it&amp;rsquo;s going to be a project important enough that senior leadership talks about it at all-organization or all-company meetings. This means folks will be watching your work closely, and any failures will be very visible. Success will be highly visible, as well!&lt;/li>
-&lt;/ul>
-&lt;p>If you meet these, it&amp;rsquo;s probably a staff project. These can be pretty nerve-wracking, which is also why they&amp;rsquo;re so effective at developing you.&lt;/p>
-&lt;h2 id="getting-access-to-staff-projects">Getting access to Staff projects&lt;/h2>
-&lt;p>While deciding that you want to take on a Staff project is the first step, you still need to get &lt;em>access&lt;/em> to these projects, which depends on your management chain trusting you enough to bet on your success.&lt;/p>
-&lt;p>This comes down to three factors.&lt;/p>
-&lt;ol>
-&lt;li>First is learning to stay aligned with your leadership team, some strategies for which are described in &lt;a href="https://staffeng.com/guides/getting-in-the-room">Getting in the room&lt;/a> and &lt;a href="https://staffeng.com/guides/staying-aligned-with-authority">Staying aligned with authority&lt;/a>.&lt;/li>
-&lt;li>Second, you need to be known to have the technical aptitude for the problem at hand, which requires &lt;a href="https://staffeng.com/guides/being-visible">Being Visible&lt;/a>.&lt;/li>
-&lt;li>Third, is less in your control, which is your company having a pressing need to solve a Staff-level problem, which can require some patience.&lt;/li>
-&lt;/ol>
-&lt;h2 id="should-you-pursue-a-staff-project">Should you pursue a Staff project?&lt;/h2>
-&lt;p>In summary, if you&amp;rsquo;re looking to get promoted within your current company and haven&amp;rsquo;t previously held a Staff or management title before, then you&amp;rsquo;ll likely need to pursue a Staff project to establish yourself at that level. In other cases, you likely won&amp;rsquo;t.&lt;/p>
-&lt;p>In any case, it&amp;rsquo;s worth keeping in mind that whether or not these projects are required, they are also some of the most challenging work you can find and are the sort of work that will stretch and develop you into a better engineer. In the short-term pursuit of the title, it may well be optimal to avoid these projects, but in the long-term pursuit of self-growth, they&amp;rsquo;re irreplaceable.&lt;/p></description></item><item><title>Work on what matters</title><link>https://techleadmanager.com/guides/work-on-what-matters/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/work-on-what-matters/</guid><description>&lt;blockquote>
+&lt;p>This project came out of the desire to have a clearer understanding of the Staff-plus role, to ensure organizations I work with or support create room for those roles, and to make me a better coach to the Staff-plus engineers I&amp;rsquo;m fortunate enough to work with.&lt;/p></description></item><item><title>Work on what matters</title><link>https://techleadmanager.com/guides/work-on-what-matters/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/work-on-what-matters/</guid><description>&lt;blockquote>
 &lt;p>I&amp;rsquo;ve taken to using the word &amp;ldquo;energized&amp;rdquo; over &amp;ldquo;impactful.&amp;rdquo; &amp;ldquo;Impactful&amp;rdquo; feels company-centric, and while that&amp;rsquo;s important, &amp;ldquo;energized&amp;rdquo; is more inwards-looking. Finding energizing work is what has kept me at Stripe for so long, pursuing impactful
 work. - &lt;a href="https://techleadmanager.com/stories/michelle-bu">Michelle Bu&lt;/a>&lt;/p>&lt;/blockquote>
 &lt;p>We all have a finite amount of time to live, and within that mortal countdown, we devote some fraction towards our work. Even for the most career-focused, your life will be filled with many things beyond work: supporting your family, children, exercise, being a mentor and a mentee, hobbies, and so the list goes on. This is the sign of a rich life, but one side-effect is that time to do your work will become increasingly scarce as you get deeper into your career.&lt;/p>
@@ -2170,50 +2131,7 @@ is a fairly lively room.&lt;/p>
 &lt;p>By improving ourselves, we make the industry better. Make a plan to sponsor someone else in your organization. Synthesize a strategy document, taking the time to make others feel heard. Build a network of peers, and invite more folks into that network. As you do that work, your engineering organization will learn from your example.&lt;/p>
 &lt;p>Your manager and management chain will learn from your example as well. Many managers have never worked with an effective Staff-plus engineer. They instead view the role through the lens of a previous disaster. Partner with them to understand their priorities and concerns to build alignment. Hold yourself accountable to the same pressures your manager experiences. Work through their fear of what could go wrong, and create excitement for how much can go right.&lt;/p>
 &lt;p>Does it feel odd to talk about fearing Staff-plus roles? It does, but it’s unavoidable. At most companies, the primary factor preventing the adoption of an impactful Staff-plus role is the fear of creating a tyrannical architect. That fear is driven by their previous experiences with inept and poorly managed technical leaders. This fear will only subside as we collectively replenish the groundwater of good Staff-plus role models.&lt;/p>
-&lt;p>My hope is that reading &lt;em>Staff Engineer&lt;/em> has given you a map to follow towards a rewarding Staff-plus career or inspired you to keep walking the path of your own that you’ve already found. The software technology industry is still in its infancy, and what it becomes is wholly in our hands.&lt;/p></description></item><item><title>Getting in the room, and stay there</title><link>https://techleadmanager.com/guides/getting-in-the-room/</link><pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/getting-in-the-room/</guid><description>&lt;p>One of the most common frustrations I&amp;rsquo;ve heard from engineers is that they&amp;rsquo;re not in the room where important decisions are being made. They don&amp;rsquo;t understand the company&amp;rsquo;s decisions and have important context that seems to be missing or ignored. Staff-plus engineers frequently cite access to &amp;ldquo;the room&amp;rdquo; as a major benefit of their level, and titles do increase the likelihood that you&amp;rsquo;ll be involved in decisions that impact you.&lt;/p>
-&lt;p>However, it&amp;rsquo;s important to remember there&amp;rsquo;s no single &amp;ldquo;room&amp;rdquo; to enter. Getting into the right room isn&amp;rsquo;t a one-time challenge to be faced. Entering rooms will be an ongoing, iterative career challenge. That means it&amp;rsquo;s worth getting good at!&lt;/p>
-&lt;p>Early in your career, it might be a sprint pre-planning meeting with your tech lead and product manager. Later it might be a quarterly planning meeting, an &lt;a href="https://lethain.com/scaling-consistency/">architecture review&lt;/a>, the &lt;a href="https://lethain.com/perf-management-system/">performance calibration&lt;/a>, the engineering leadership team, or the executive team. There will always be another room to enter. To reach senior levels, you have to become effective at not only &lt;em>entering&lt;/em> but also &lt;em>staying&lt;/em> in these rooms of power.&lt;/p>
-&lt;h2 id="getting-in-the-room">Getting in the room&lt;/h2>
-&lt;p>To get into the room, you need:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>To bring something useful to the room&amp;hellip;&lt;/strong> This could be details on a critical project, context from a critical team, subject matter expertise related to the room&amp;rsquo;s purpose, experience running a similar project or team at a previous company, a relationship with a key relevant customer, or something else entirely.&lt;/li>
-&lt;li>&lt;strong>&amp;hellip;that the room doesn&amp;rsquo;t already have.&lt;/strong> It&amp;rsquo;s not enough to have something useful to bring to the room. It also needs to be a perspective that isn&amp;rsquo;t already present within the room. Small groups function better than larger ones, so operating forums generally sacrifice redundancy and representation for efficiency. To be included in those rooms, you&amp;rsquo;ll need to bring something distinct from the current membership.&lt;/li>
-&lt;li>&lt;strong>A sponsor in the room.&lt;/strong> These rooms have limited slots and have to function well as a group. To get into the room, you&amp;rsquo;ll need someone to sponsor your membership. Your sponsor is allocating their social capital towards your inclusion, and their peers will judge them based on your actions within the room. These rooms often have a mix of seniority levels, so it&amp;rsquo;s often the case that your sponsor&amp;rsquo;s manager is in the room evaluating &lt;em>them&lt;/em> based on their decision to sponsor &lt;em>you&lt;/em>.&lt;/li>
-&lt;li>&lt;strong>Your sponsor needs to know you want to be there.&lt;/strong> Your sponsor is probably in many different rooms
-and probably daydreams of leaving most of those meetings behind them. They won&amp;rsquo;t necessarily assume you want to
-be in any particular meeting, and in fact might assume you don&amp;rsquo;t want to be there at all.
-Make sure that they know if you want to be included.&lt;/li>
-&lt;/ul>
-&lt;p>How you bring something useful to the room is going to be context-specific to you and the room you&amp;rsquo;re trying to enter: there isn&amp;rsquo;t any single pattern to follow. Whether someone with similar context is already in the room is also unique to your circumstances, and at some points in time, the only options are to wait or look for another room to enter.&lt;/p>
-&lt;p>On the other side of things, sometimes the easiest way to increase your value to the room is by decreasing the cost of including you. Some of the approaches that work well are:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Stay aligned with your manager.&lt;/strong> Folks evaluate leaders on how aligned their teams are with their announced approach. If they&amp;rsquo;ve proclaimed a shift to continuous deployment, but their team is chanting for release trains, then folks get skeptical about who is leading who. You&amp;rsquo;ll be much more likely to be sponsored into the room if you&amp;rsquo;re highly aligned with your sponsor. If you&amp;rsquo;re &lt;em>particularly&lt;/em> aligned, they&amp;rsquo;re more likely to yield their own seat to you and stop attending.&lt;/li>
-&lt;li>&lt;strong>Optimize for the group.&lt;/strong> One of Stripe&amp;rsquo;s old operating principles was &amp;ldquo;Optimize for Stripe,&amp;rdquo; and that mentality of optimizing widely for others builds trust and confidence in your judgment.&lt;/li>
-&lt;li>&lt;strong>Speak clearly and concisely.&lt;/strong> Learn to speak concisely: as you develop an economy of speech, you&amp;rsquo;ll be able to contribute more ideas with less time. Learn to speak clearly: if folks don&amp;rsquo;t understand your proposal, then it doesn&amp;rsquo;t matter how good it is. Keep in mind that it&amp;rsquo;s your obligation to be understood, not the obligation of everyone else to understand you.&lt;/li>
-&lt;li>&lt;strong>Be low friction.&lt;/strong> It&amp;rsquo;s easy to fall into the trap of viewing each discussion as the last opportunity to stop an impending disaster. With that mindset, each discussion is a near-emergency, and emotions run high. Those sorts of discussions usually spend their time draining frustration rather than making forward progress. If you&amp;rsquo;re known as someone who can navigate difficult conversations effectively, you&amp;rsquo;re much more likely to be involved.&lt;/li>
-&lt;li>&lt;strong>Come prepared.&lt;/strong> Some companies infantilize their engineers, accepting that even very senior engineers won&amp;rsquo;t read the agenda, do the pre-reads or prepare for the discussion. There&amp;rsquo;s a considerable gap between what&amp;rsquo;s tolerated and what&amp;rsquo;s rewarded, and you&amp;rsquo;ll stand out if you take the time to organize your thoughts before each meeting. Equally important is following up on what you committed to.&lt;/li>
-&lt;li>&lt;strong>Focus and be present.&lt;/strong>
-Once you&amp;rsquo;ve entered the room, be sure to show up and engage.
-Be attentive and engaged. Whatever else you want to be doing, it will wait.&lt;/li>
-&lt;li>&lt;strong>Volunteer for low-status tasks.&lt;/strong> If someone needs to take notes, raise your hand.
-If someone needs to follow up on action items, be available.
-Prioritize being useful, especially when it isn&amp;rsquo;t the most exciting work.&lt;/li>
-&lt;/ul>
-&lt;p>To get into the room, you have to work both the numerator and denominator: keep developing a unique and useful perspective while also becoming more effective at delivering that perspective within the constraints of a meeting.&lt;/p>
-&lt;h2 id="staying-in-the-room">Staying in the room&lt;/h2>
-&lt;p>Getting into the room is your first hurdle, but the second hurdle is staying in the room. Most important is to keep doing the things that got you into the room: bring important context into the room, present a polished version of yourself, be concise, be flexible.&lt;/p>
-&lt;p>There are a few patterns that will consistently get you kicked out of the room:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Misunderstanding the room&amp;rsquo;s purpose.&lt;/strong> Each room has &lt;a href="https://www.tablegroup.com/books/dbm/">its own purpose&lt;/a>, and you&amp;rsquo;ll create friction if you attempt to use a room against the existing group&amp;rsquo;s intent. It&amp;rsquo;s very common for the external perception of a given room&amp;rsquo;s function (&amp;ldquo;they make all the decisions in the leadership team meeting&amp;rdquo;) to be rather far from how the room thinks of its role (&amp;ldquo;we don&amp;rsquo;t make decisions, just surface problems to discuss&amp;rdquo;). Take the time to understand how the room operates and integrate into it with respect for that intention.&lt;/li>
-&lt;li>&lt;strong>Being dogmatic.&lt;/strong> As rooms get more senior, they have to discuss very sensitive topics (compensation, layoffs, promotions, acquisitions, etc), and they have a fixed amount of time to work together each week. If you&amp;rsquo;re dogmatic, you will create friction that slows down discussion and impedes the group&amp;rsquo;s ability to make progress.&lt;/li>
-&lt;li>&lt;strong>Withholding consent.&lt;/strong> Effective groups are formed from individuals who are willing to &lt;a href="https://en.wikipedia.org/wiki/Disagree_and_commit">disagree and commit&lt;/a>. You can often force a group towards your perspective by withholding your consent until thinking moves your way, but the group&amp;rsquo;s pace will slow to a halt, and you&amp;rsquo;ll likely get removed from it.&lt;/li>
-&lt;li>&lt;strong>Sucking the oxygen out of the room.&lt;/strong> There are brainstorm discussions where every idea is welcome, and there are moments when you&amp;rsquo;ve shifted into operating mode to unblock project execution, and you have to read the room on which is happening. Usually, this comes from &lt;a href="https://lethain.com/showing-value/">an urge to show value&lt;/a>, but remember that you&amp;rsquo;re in the room because of what got you into the room, not in the hopes that entering the room will magically transform you into someone entirely new.&lt;/li>
-&lt;li>&lt;strong>Embarrassing your sponsor.&lt;/strong> Remember that you got into a room because someone in the room advocated for your inclusion.&lt;/li>
-&lt;li>&lt;strong>Being flakey or not showing up regularly.&lt;/strong> There are only so many slots, and the person running the meeting will prioritize them on people who show up.&lt;/li>
-&lt;/ul>
-&lt;p>That said, I think it&amp;rsquo;s easy to get caught up worrying too much about staying in the room. Sometimes you&amp;rsquo;re better off thinking about whether the room&amp;rsquo;s a valuable place to invest your time.&lt;/p>
-&lt;h2 id="exiting-the-room">Exiting the room&lt;/h2>
-&lt;p>It&amp;rsquo;s important to remember that while there are infinite rooms to be in, there&amp;rsquo;s no room where the work actually happens. You&amp;rsquo;ll be most impactful if you&amp;rsquo;re selective on which rooms you stay in. While I&amp;rsquo;ve met many folks who resent not being allowed entry into some room they&amp;rsquo;re fixated on, I&amp;rsquo;ve never met anyone who regrets leaving a room too soon. If any given room doesn&amp;rsquo;t feel useful, exit the room. While exiting, sponsor someone else into the opportunity you&amp;rsquo;re leaving behind.&lt;/p></description></item><item><title>Learn to never be wrong</title><link>https://techleadmanager.com/guides/learn-to-never-be-wrong/</link><pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/learn-to-never-be-wrong/</guid><description>&lt;blockquote>
+&lt;p>My hope is that reading &lt;em>Staff Engineer&lt;/em> has given you a map to follow towards a rewarding Staff-plus career or inspired you to keep walking the path of your own that you’ve already found. The software technology industry is still in its infancy, and what it becomes is wholly in our hands.&lt;/p></description></item><item><title>Learn to never be wrong</title><link>https://techleadmanager.com/guides/learn-to-never-be-wrong/</link><pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/learn-to-never-be-wrong/</guid><description>&lt;blockquote>
 &lt;p>I present what I think is the best case for us, and people can disagree with that. And, you know, they often do. I&amp;rsquo;m steering and influencing more than saying, &amp;ldquo;I&amp;rsquo;ve got the authority to just tell you what to do.&amp;rdquo; I&amp;rsquo;ve never seen that style work well.
 - &lt;a href="https://techleadmanager.com/stories/keavy-mcminn">Keavy McMinn&lt;/a>&lt;/p>&lt;/blockquote>
 &lt;p>Most folks have worked with someone who thinks they&amp;rsquo;re never wrong. In each discussion, they lean in, broaden their shoulders and breach their way into the role of the decider. They&amp;rsquo;ll continue debating until their perspective wins the day or time runs out. They are often right, but right in a way that sucks the oxygen out of the room. As their tenure at a company increases, they may fancy that they&amp;rsquo;ve become very persuasive, but frequently it&amp;rsquo;s a form of persuasion characterized by the resignation of their peers.&lt;/p>
