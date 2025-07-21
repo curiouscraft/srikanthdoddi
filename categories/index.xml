@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on From Code to Influence: A Software Engineer’s Journey</title><link>https://techleadmanager.com/categories/</link><description>Recent content in Categories on From Code to Influence: A Software Engineer’s Journey</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Will Larson</copyright><atom:link href="https://techleadmanager.com/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Flexing Your Leadership Style</title><link>https://techleadmanager.com/guides/flexing-leadership-style/</link><pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/flexing-leadership-style/</guid><description>&lt;blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on From Code to Influence: A Software Engineer’s Journey</title><link>https://techleadmanager.com/categories/</link><description>Recent content in Categories on From Code to Influence: A Software Engineer’s Journey</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Srikanth Doddi</copyright><atom:link href="https://techleadmanager.com/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Flexing Your Leadership Style</title><link>https://techleadmanager.com/guides/flexing-leadership-style/</link><pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/flexing-leadership-style/</guid><description>&lt;blockquote>
 &lt;p>One of the most powerful traits in effective leaders isn’t just decisiveness or vision—it’s the ability to adapt. In my own leadership journey, I’ve realized that different situations, teams, and even individuals need different things from a leader. You don’t become a better leader by always taking charge. Sometimes, you do it by stepping back.&lt;br>
 - &lt;a href="https://techleadmanager.com/stories/tanya-rehman">Tanya Rehman&lt;/a>&lt;/p>&lt;/blockquote>
 &lt;p>The &lt;a href="https://en.wikipedia.org/wiki/Tannenbaum_and_Schmidt_Continuum">Tannenbaum and Schmidt Leadership Continuum&lt;/a> models leadership not as a fixed trait, but as a &lt;strong>sliding scale of authority and freedom&lt;/strong>. It illustrates seven leadership styles ranging from &lt;strong>manager-centered&lt;/strong> to &lt;strong>team-centered&lt;/strong>.&lt;/p>
@@ -162,7 +162,123 @@ The Tannenbaum-Schmidt Continuum gives you the vocabulary and structure to do th
 &lt;hr>
 &lt;blockquote>
 &lt;p>🧠 &lt;em>&amp;ldquo;The goal isn’t to climb the ladder alone—it’s to build a team that climbs together.&amp;rdquo;&lt;/em>&lt;br>
-Great leaders create space for others to rise, responsibly.&lt;/p>&lt;/blockquote></description></item><item><title>Adam Bender - Principal Software Engineer at Google</title><link>https://techleadmanager.com/stories/adam-bender/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/stories/adam-bender/</guid><description>&lt;p>&lt;span class="date fr">October, 2022&lt;/span>
+Great leaders create space for others to rise, responsibly.&lt;/p>&lt;/blockquote></description></item><item><title>Accountability VS Responsibility</title><link>https://techleadmanager.com/guides/accountability-vs-responsibility/</link><pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/accountability-vs-responsibility/</guid><description>&lt;p>Accountability vs Responsibility: Cultivating Leadership Through Ownership:&lt;/p>
+&lt;p>In the journey from individual contributor to organizational leader, one of the most fundamental shifts is from &lt;em>being responsible for doing the work&lt;/em> to &lt;em>being accountable for enabling it at scale&lt;/em>. While &amp;ldquo;responsibility&amp;rdquo; and &amp;ldquo;accountability&amp;rdquo; are often treated as synonyms, they represent distinct and complementary aspects of leadership that are essential for building sustainable, resilient organizations.&lt;/p>
+&lt;p>Understanding and mastering this distinction is not just semantic—it’s strategic.&lt;/p>
+&lt;h2 id="definitions">Definitions&lt;/h2>
+&lt;p>&lt;strong>Responsibility&lt;/strong>&lt;/p>
+&lt;p>Responsibility is about task ownership. It refers to the obligations, duties, or roles someone is assigned or accepts. A responsible person is expected to follow through and execute.&lt;/p>
+&lt;ul>
+&lt;li>You can delegate &lt;em>responsibilities&lt;/em>.&lt;/li>
+&lt;li>They can be &lt;em>shared&lt;/em> among multiple people.&lt;/li>
+&lt;li>They are typically &lt;em>execution-focused&lt;/em>.&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;em>Example:&lt;/em> A backend engineer is responsible for implementing an API endpoint by the end of the sprint.&lt;/p>&lt;/blockquote>
+&lt;p>&lt;strong>Accountability&lt;/strong>&lt;/p>
+&lt;p>&lt;em>Accountability&lt;/em> is about &lt;em>outcome ownership&lt;/em>. It means being &lt;em>answerable for results&lt;/em>, regardless of who does the work.&lt;/p>
+&lt;ul>
+&lt;li>Accountability is &lt;em>singular&lt;/em>—only one person is ultimately accountable.&lt;/li>
+&lt;li>It &lt;em>cannot be delegated&lt;/em>, though it can (and should) empower others.&lt;/li>
+&lt;li>It’s focused on &lt;em>results&lt;/em>, not activity.&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&lt;em>Example:&lt;/em> The engineering manager is accountable for delivering a functional, performant product feature even though the work is distributed among several engineers.&lt;/p>&lt;/blockquote>
+&lt;h2 id="the-crucial-difference">The Crucial Difference&lt;/h2>
+&lt;p>Understanding the difference becomes particularly important as you transition to Staff-plus or leadership roles.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;strong>Responsibility&lt;/strong>&lt;/th>
+&lt;th>&lt;strong>Accountability&lt;/strong>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Focus&lt;/strong>&lt;/td>
+&lt;td>Completing tasks&lt;/td>
+&lt;td>Achieving outcomes&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Can be delegated?&lt;/strong>&lt;/td>
+&lt;td>Yes&lt;/td>
+&lt;td>No&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Can be shared?&lt;/strong>&lt;/td>
+&lt;td>Yes&lt;/td>
+&lt;td>Rarely&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Measured by&lt;/strong>&lt;/td>
+&lt;td>Task completion&lt;/td>
+&lt;td>Impact and results&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Typical holder&lt;/strong>&lt;/td>
+&lt;td>ICs, junior to mid-level roles&lt;/td>
+&lt;td>Senior engineers, leads, managers&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Driven by&lt;/strong>&lt;/td>
+&lt;td>Role or assignment&lt;/td>
+&lt;td>Ownership and trust&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="from-doer-to-enabler-navigating-the-shift">From Doer to Enabler: Navigating the Shift&lt;/h2>
+&lt;p>As a senior engineer or technical leader, the shift from being &lt;strong>responsible for execution&lt;/strong> to &lt;strong>accountable for direction and outcomes&lt;/strong> is critical—but also uncomfortable.&lt;/p>
+&lt;p>It’s easy to default to doing the work yourself. After all, that’s what got you here. But &lt;strong>long-term success means your team succeeds without your constant involvement.&lt;/strong> The goal is to &lt;strong>build capability, not dependency&lt;/strong>.&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;At this point, I spend less time advocating for specific technologies or programs and more time empowering others to advocate for the technologies and programs that they think are important.&amp;rdquo;&lt;br>
+— &lt;a href="https://staffeng.com/stories/michelle-bu">Michelle Bu&lt;/a>&lt;/p>&lt;/blockquote>
+&lt;h2 id="applying-responsibility-and-accountability-in-practice">Applying Responsibility and Accountability in Practice&lt;/h2>
+&lt;p>&lt;strong>Discussions: Shift from Voice to Facilitator&lt;/strong>&lt;/p>
+&lt;p>When you&amp;rsquo;re optimizing for &lt;em>impact&lt;/em>, it&amp;rsquo;s tempting to dominate conversations with answers and opinions. But when you&amp;rsquo;re focused on &lt;em>accountability&lt;/em>, you realize that the real power lies in &lt;em>creating space&lt;/em> for others to lead.&lt;/p>
+&lt;p>&lt;strong>Techniques to try:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;em>Ask questions instead of giving answers.&lt;/em> Guide the team to uncover solutions on their own.&lt;/li>
+&lt;li>&lt;em>Pull others into the conversation.&lt;/em> Especially those who are quiet but have context or potential.&lt;/li>
+&lt;li>&lt;em>Take notes.&lt;/em> Model humility and free others to contribute more vocally.&lt;/li>
+&lt;li>&lt;em>Notice absences.&lt;/em> If someone with key context is missing, ensure they’re included next time.&lt;/li>
+&lt;/ul>
+&lt;p>A good discussion is one where &lt;strong>you didn’t need to speak&lt;/strong> not because you were disengaged, but because you made others feel safe and empowered to contribute meaningfully.&lt;/p>
+&lt;h3 id="decisions-move-from-direction-to-delegation">Decisions: Move from Direction to Delegation&lt;/h3>
+&lt;p>Being accountable doesn’t mean you must make every decision. It means you’re responsible for &lt;strong>building decision-makers&lt;/strong>.&lt;/p>
+&lt;h4 id="techniques-to-empower-others">Techniques to empower others:&lt;/h4>
+&lt;ul>
+&lt;li>&lt;em>Write down your decision-making rationale.&lt;/em> Help others learn your thinking, not just your outcomes.&lt;/li>
+&lt;li>&lt;em>Circulate early.&lt;/em> Invite feedback before your ideas harden—model openness.&lt;/li>
+&lt;li>&lt;em>Avoid style feedback.&lt;/em> Focus on substance, and trust others&amp;rsquo; stylistic choices.&lt;/li>
+&lt;li>&lt;em>Let go of ego.&lt;/em> Don&amp;rsquo;t offer input just to “show value.” Prioritize impact over impression.&lt;/li>
+&lt;li>&lt;em>Change your mind.&lt;/em> Demonstrating adaptability models respect and maturity.&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Initially, I was thinking, ‘I’ll break it into twenty pieces, assign out eighteen, and keep the two hardest for myself.’ And my manager pushed me to delegate the hard pieces to stretch the team.&amp;rdquo;&lt;br>
+— &lt;a href="https://staffeng.com/stories/ritu-vincent">Ritu Vincent&lt;/a>&lt;/p>&lt;/blockquote>
+&lt;h2 id="sponsorship-giving-away-the-work">Sponsorship: Giving Away the Work&lt;/h2>
+&lt;p>Sponsorship is the ultimate act of &lt;em>accountability without responsibility&lt;/em>. It’s choosing to grow others by &lt;em>giving them the opportunity&lt;/em> to lead the kind of projects that once made your career.&lt;/p>
+&lt;p>&lt;strong>How to sponsor effectively:&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>&lt;em>Identify growth opportunities.&lt;/em> When work comes to you, ask, “Who could grow by doing this?”&lt;/li>
+&lt;li>&lt;em>Scaffold early.&lt;/em> Share your thought process, stakeholders, risks, and context.&lt;/li>
+&lt;li>&lt;em>Support, don’t steer.&lt;/em> Let them lead. Advise without controlling.&lt;/li>
+&lt;li>&lt;em>Celebrate their wins.&lt;/em> Let them receive the credit, even if you seeded the idea.&lt;/li>
+&lt;/ol>
+&lt;p>It may be uncomfortable to hand over critical work—but &lt;em>if your organization depends on you, it’s fragile&lt;/em>. If it thrives without you, that’s the legacy of a truly accountable leader.&lt;/p>
+&lt;h2 id="what-happens-if-you-dont">What Happens If You Don’t?&lt;/h2>
+&lt;p>You might become the bottleneck.&lt;/p>
+&lt;p>If your value is rooted solely in &lt;em>doing&lt;/em> and &lt;em>deciding&lt;/em>, the organization will stagnate when you step back. The short-term wins of being the “go-to” person eventually become long-term liabilities.&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;The only way to remain a long-term leader of a genuinely successful company is to continually create space for others to take the recognition, reward, and work that got you to where you’re currently sitting.&amp;rdquo;&lt;/p>&lt;/blockquote>
+&lt;h2 id="final-thoughts">Final Thoughts&lt;/h2>
+&lt;p>Both &lt;em>responsibility&lt;/em> and &lt;em>accountability&lt;/em> are crucial, but they’re &lt;em>not interchangeable&lt;/em>. Responsibility is about &lt;em>doing the work&lt;/em>. Accountability is about &lt;em>growing others to do it&lt;/em> and enabling them to succeed without you.&lt;/p>
+&lt;p>Your highest leverage as a Staff-plus engineer or leader isn’t in the code you write, but in the &lt;em>leaders you develop&lt;/em>, the &lt;em>trust you earn&lt;/em>, and the &lt;em>space you create&lt;/em>.&lt;/p>
+&lt;p>Make the shift. Create the space. Share the ownership.&lt;/p>
+&lt;blockquote>
+&lt;p>“The best sign of leadership is that the organization grows because of you, not around you.”&lt;/p>&lt;/blockquote>
+&lt;hr></description></item><item><title>Adam Bender - Principal Software Engineer at Google</title><link>https://techleadmanager.com/stories/adam-bender/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/stories/adam-bender/</guid><description>&lt;p>&lt;span class="date fr">October, 2022&lt;/span>
 &lt;a href="https://www.linkedin.com/in/theadambender">linkedin&lt;/a>&lt;/p>
 &lt;p>&lt;strong>&lt;em>Tell us a little about your current role: where do you work, your title and generally the sort of work do you and your team do.&lt;/em>&lt;/strong>&lt;/p>
 &lt;p>I&amp;rsquo;m a Principal Engineer at Google. In my day job I lead a team developing web infrastructure for internal enterprise applications. We develop shared UI components, make deploying new applications easier, and coach teams on frontend architecture and accessibility. Google relies on 1000s of internal applications to power everything from our Code Review processes to our financial systems, and from our physical security systems to continuous integration tooling. Often these systems are built by smaller full-stack teams that have to figure out how to harness some very powerful, and complex infrastructure to solve Google-scale business problems. My team&amp;rsquo;s job is to provide tools and libraries to enable the creation of really great webserving options and great UX for our internal systems.&lt;/p>
