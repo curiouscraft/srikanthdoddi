@@ -1,4 +1,176 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on From Code to Influence: A Software Engineer’s Journey</title><link>https://techleadmanager.com/categories/</link><description>Recent content in Categories on From Code to Influence: A Software Engineer’s Journey</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Srikanth Doddi</copyright><atom:link href="https://techleadmanager.com/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Flexing Your Leadership Style</title><link>https://techleadmanager.com/guides/flexing-leadership-style/</link><pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/flexing-leadership-style/</guid><description>&lt;blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on From Code to Influence: A Software Engineer’s Journey</title><link>https://techleadmanager.com/categories/</link><description>Recent content in Categories on From Code to Influence: A Software Engineer’s Journey</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Srikanth Doddi</copyright><atom:link href="https://techleadmanager.com/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding Situational Leadership - A Practical Guide with Engineer-Manager Scenarios</title><link>https://techleadmanager.com/guides/situational-leadership/</link><pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/situational-leadership/</guid><description>&lt;p>&lt;em>Situational Leadership&lt;/em> is a flexible and adaptive leadership model developed by Paul Hersey and Ken Blanchard. It emphasizes that &lt;em>there is no single &amp;ldquo;best&amp;rdquo; style of leadership&lt;/em>. Instead, effective leadership depends on the &lt;em>situation&lt;/em> particularly the &lt;em>maturity, competence, and commitment of the people being led&lt;/em>.&lt;/p>
+&lt;h2 id="core-concept-of-situational-leadership">Core Concept of Situational Leadership&lt;/h2>
+&lt;p>Situational Leadership rests on the idea that &lt;em>leaders must adjust their style&lt;/em> based on the readiness (ability and willingness) of their followers. The model identifies &lt;em>four leadership styles&lt;/em> and matches them to the &lt;em>four development levels of employees&lt;/em>.&lt;/p>
+&lt;h2 id="the-four-leadership-styles">The Four Leadership Styles&lt;/h2>
+&lt;p>Each style balances &lt;em>task behavior (directive)&lt;/em> and &lt;em>relationship behavior (supportive)&lt;/em>:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Style&lt;/th>
+&lt;th>Name&lt;/th>
+&lt;th>Leader Behavior&lt;/th>
+&lt;th>When to Use&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>S1&lt;/td>
+&lt;td>&lt;em>Directing&lt;/em>&lt;/td>
+&lt;td>High task, low relationship&lt;/td>
+&lt;td>When followers are new or inexperienced&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>S2&lt;/td>
+&lt;td>&lt;em>Coaching&lt;/em>&lt;/td>
+&lt;td>High task, high relationship&lt;/td>
+&lt;td>When followers are willing but lack skill&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>S3&lt;/td>
+&lt;td>&lt;em>Supporting&lt;/em>&lt;/td>
+&lt;td>Low task, high relationship&lt;/td>
+&lt;td>When followers are competent but need support&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>S4&lt;/td>
+&lt;td>&lt;em>Delegating&lt;/em>&lt;/td>
+&lt;td>Low task, low relationship&lt;/td>
+&lt;td>When followers are highly competent/motivated&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="the-four-development-levels-of-followers">The Four Development Levels of Followers&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Level&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;th>Follower Traits&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>D1&lt;/td>
+&lt;td>&lt;em>Low competence, high commitment&lt;/em>&lt;/td>
+&lt;td>New to the task but eager to learn&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>D2&lt;/td>
+&lt;td>&lt;em>Some competence, low commitment&lt;/em>&lt;/td>
+&lt;td>Learning but frustrated or doubtful&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>D3&lt;/td>
+&lt;td>&lt;em>High competence, variable commitment&lt;/em>&lt;/td>
+&lt;td>Skilled but lacking confidence or motivation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>D4&lt;/td>
+&lt;td>&lt;em>High competence, high commitment&lt;/em>&lt;/td>
+&lt;td>Experienced, confident, and motivated&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="matching-leadership-styles-to-development-levels">Matching Leadership Styles to Development Levels&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Follower Level&lt;/th>
+&lt;th>Best Leadership Style&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>D1&lt;/td>
+&lt;td>S1 (Directing)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>D2&lt;/td>
+&lt;td>S2 (Coaching)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>D3&lt;/td>
+&lt;td>S3 (Supporting)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>D4&lt;/td>
+&lt;td>S4 (Delegating)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="-situational-leadership-in-action-engineerleader-scenarios">🛠️ Situational Leadership in Action: Engineer–Leader Scenarios&lt;/h2>
+&lt;p>Let’s explore each leadership style with &lt;em>a realistic engineering scenario&lt;/em>.&lt;/p>
+&lt;h3 id="s1-directing-d1--new-engineer">S1: &lt;strong>Directing&lt;/strong> (D1 – New Engineer)&lt;/h3>
+&lt;p>&lt;strong>Scenario:&lt;/strong>&lt;br>
+&lt;em>Charan is a new graduate hire starting his first week as a software engineer. He’s eager to learn but has no experience with the company’s tech stack.&lt;/em>&lt;/p>
+&lt;p>&lt;strong>Leader&amp;rsquo;s Style:&lt;/strong> Directing&lt;/p>
+&lt;p>&lt;strong>Interaction Example:&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>Leader:&lt;/strong>&lt;br>
+&amp;ldquo;Charan, I’ve outlined a task for you to implement a REST API endpoint. Here’s the spec, and I’ve created a template project for you to use. Please follow the checklist and check in your code by Friday. Let’s meet daily for 15 minutes to track progress.&amp;rdquo;&lt;/p>&lt;/blockquote>
+&lt;p>&lt;strong>Why it works:&lt;/strong>&lt;br>
+Clear structure helps Charan focus on learning the basics without ambiguity.&lt;/p>
+&lt;h3 id="s2-coaching-d2--developing-engineer">S2: &lt;strong>Coaching&lt;/strong> (D2 – Developing Engineer)&lt;/h3>
+&lt;p>&lt;strong>Scenario:&lt;/strong>&lt;br>
+&lt;em>Surya has been on the team for 3 months. He understands the tools but struggles with debugging and feels overwhelmed with sprint planning.&lt;/em>&lt;/p>
+&lt;p>&lt;strong>Leader&amp;rsquo;s Style:&lt;/strong> Coaching&lt;/p>
+&lt;p>&lt;strong>Interaction Example:&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>Engineer:&lt;/strong>&lt;br>
+&amp;ldquo;I’m struggling with tracing the root cause of this bug. I’ve looked at the logs, but it’s still unclear.&amp;rdquo;&lt;/p>&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;strong>Leader:&lt;/strong>&lt;br>
+&amp;ldquo;Let’s walk through it together. I’ll explain how to approach log tracing and ask guiding questions. After this, I want you to handle a similar issue next time, and we’ll review it together.&amp;rdquo;&lt;/p>&lt;/blockquote>
+&lt;p>&lt;strong>Why it works:&lt;/strong>&lt;br>
+Surya gains hands-on learning and support while his confidence builds.&lt;/p>
+&lt;h3 id="s3-supporting-d3--capable-but-insecure-engineer">S3: &lt;strong>Supporting&lt;/strong> (D3 – Capable but Insecure Engineer)&lt;/h3>
+&lt;p>&lt;strong>Scenario:&lt;/strong>&lt;br>
+&lt;em>Yashwanth is technically sound but has recently taken on a lead role in a cross-functional project and is hesitant in decision-making.&lt;/em>&lt;/p>
+&lt;p>&lt;strong>Leader&amp;rsquo;s Style:&lt;/strong> Supporting&lt;/p>
+&lt;p>&lt;strong>Interaction Example:&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>Engineer:&lt;/strong>&lt;br>
+&amp;ldquo;I’m not sure if we should go with GraphQL or REST for the data layer. I don’t want to make the wrong call.&amp;rdquo;&lt;/p>&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;strong>Leader:&lt;/strong>&lt;br>
+&amp;ldquo;You’ve researched both thoroughly. Let’s talk it through, but I trust your judgment. Which do you feel is the better fit?&amp;rdquo;&lt;/p>&lt;/blockquote>
+&lt;p>&lt;strong>Why it works:&lt;/strong>&lt;br>
+This empowers Yashwanth to step into decision-making with backup if needed, building his confidence.&lt;/p>
+&lt;h3 id="s4-delegating-d4--senior-engineer">S4: &lt;strong>Delegating&lt;/strong> (D4 – Senior Engineer)&lt;/h3>
+&lt;p>&lt;strong>Scenario:&lt;/strong>&lt;br>
+&lt;em>Azhar is a senior backend engineer who’s led several successful releases. He&amp;rsquo;s now assigned to architect a new internal tooling platform.&lt;/em>&lt;/p>
+&lt;p>&lt;strong>Leader&amp;rsquo;s Style:&lt;/strong> Delegating&lt;/p>
+&lt;p>&lt;strong>Interaction Example:&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>Leader:&lt;/strong>&lt;br>
+&amp;ldquo;Azhar, you&amp;rsquo;re fully in charge of defining the system architecture. I’ll handle external stakeholder communication if needed. Let me know if you hit any roadblocks—but otherwise, I trust you to own it.&amp;rdquo;&lt;/p>&lt;/blockquote>
+&lt;p>&lt;strong>Why it works:&lt;/strong>&lt;br>
+Azhar thrives on autonomy and doesn’t need close supervision.&lt;/p>
+&lt;h2 id="benefits-of-situational-leadership">Benefits of Situational Leadership&lt;/h2>
+&lt;ul>
+&lt;li>&lt;em>Adaptability:&lt;/em> Leaders can respond effectively to changing team dynamics.&lt;/li>
+&lt;li>&lt;em>Employee Development:&lt;/em> Encourages growth by adjusting support based on capability.&lt;/li>
+&lt;li>&lt;em>Efficiency:&lt;/em> Reduces micromanagement and promotes autonomy where appropriate.&lt;/li>
+&lt;li>&lt;em>Better Engagement:&lt;/em> Helps keep employees motivated and connected to their roles.&lt;/li>
+&lt;/ul>
+&lt;h2 id="challenges-and-considerations">Challenges and Considerations&lt;/h2>
+&lt;ul>
+&lt;li>&lt;em>Assessment Accuracy:&lt;/em> Misjudging an employee’s development level can lead to mismatches.&lt;/li>
+&lt;li>&lt;em>Time-Intensive:&lt;/em> Constantly adapting styles can be demanding.&lt;/li>
+&lt;li>&lt;em>Leader Flexibility:&lt;/em> Not all leaders are naturally skilled at switching styles.&lt;/li>
+&lt;/ul>
+&lt;h2 id="tips-for-applying-situational-leadership-in-engineering-teams">Tips for Applying Situational Leadership in Engineering Teams&lt;/h2>
+&lt;ol>
+&lt;li>&lt;em>Regularly assess technical and emotional readiness&lt;/em> of your engineers.&lt;/li>
+&lt;li>&lt;em>Hold 1:1s&lt;/em> to gauge confidence, engagement, and skill gaps.&lt;/li>
+&lt;li>&lt;em>Balance mentorship and autonomy&lt;/em> based on development stage.&lt;/li>
+&lt;li>&lt;em>Document your style shifts&lt;/em> so team members understand changes.&lt;/li>
+&lt;li>&lt;em>Use retrospectives&lt;/em> to reflect on what support worked and what didn’t.&lt;/li>
+&lt;/ol>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>Situational Leadership helps engineering managers become &lt;em>adaptive, supportive, and results-oriented&lt;/em>. By understanding that different engineers require different kinds of leadership at different times, managers can foster a culture of &lt;em>growth, accountability, and trust&lt;/em>.&lt;/p>
+&lt;p>Great leaders don’t just lead—they evolve with their teams.&lt;/p></description></item><item><title>Flexing Your Leadership Style</title><link>https://techleadmanager.com/guides/flexing-leadership-style/</link><pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/flexing-leadership-style/</guid><description>&lt;blockquote>
 &lt;p>One of the most powerful traits in effective leaders isn’t just decisiveness or vision—it’s the ability to adapt. In my own leadership journey, I’ve realized that different situations, teams, and even individuals need different things from a leader. You don’t become a better leader by always taking charge. Sometimes, you do it by stepping back.&lt;br>
 - &lt;a href="https://techleadmanager.com/stories/tanya-rehman">Tanya Rehman&lt;/a>&lt;/p>&lt;/blockquote>
 &lt;p>The &lt;a href="https://en.wikipedia.org/wiki/Tannenbaum_and_Schmidt_Continuum">Tannenbaum and Schmidt Leadership Continuum&lt;/a> models leadership not as a fixed trait, but as a &lt;em>sliding scale of authority and freedom&lt;/em>. It illustrates seven leadership styles ranging from &lt;em>manager-centered&lt;/em> to &lt;em>team-centered&lt;/em>.&lt;/p>
