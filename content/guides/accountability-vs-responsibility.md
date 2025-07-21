@@ -10,7 +10,7 @@ Accountability vs Responsibility: Cultivating Leadership Through Ownership:
 
 In the journey from individual contributor to organizational leader, one of the most fundamental shifts is from *being responsible for doing the work* to *being accountable for enabling it at scale*. While "responsibility" and "accountability" are often treated as synonyms, they represent distinct and complementary aspects of leadership that are essential for building sustainable, resilient organizations.
 
-Understanding and mastering this distinction is not just semantic—it’s strategic.
+Understanding and mastering this distinction is not just semantic it’s strategic.
 
 
 ## Definitions
@@ -29,7 +29,7 @@ Responsibility is about task ownership. It refers to the obligations, duties, or
 
 *Accountability* is about *outcome ownership*. It means being *answerable for results*, regardless of who does the work.
 
-- Accountability is *singular*—only one person is ultimately accountable.
+- Accountability is *singular* only one person is ultimately accountable.
 - It *cannot be delegated*, though it can (and should) empower others.
 - It’s focused on *results*, not activity.
 
@@ -39,19 +39,19 @@ Responsibility is about task ownership. It refers to the obligations, duties, or
 
 Understanding the difference becomes particularly important as you transition to Staff-plus or leadership roles.
 
-|                       | **Responsibility**                            | **Accountability**                               |
+|                       | *Responsibility*                            | *Accountability*                             |
 |-----------------------|-----------------------------------------------|--------------------------------------------------|
-| **Focus**             | Completing tasks                              | Achieving outcomes                               |
-| **Can be delegated?** | Yes                                           | No                                               |
-| **Can be shared?**    | Yes                                           | Rarely                                           |
-| **Measured by**       | Task completion                               | Impact and results                               |
-| **Typical holder**    | ICs, junior to mid-level roles                | Senior engineers, leads, managers                |
-| **Driven by**         | Role or assignment                            | Ownership and trust                              |
+| *Focus*           | Completing tasks                              | Achieving outcomes                               |
+| *Can be delegated?* | Yes                                           | No                                               |
+| *Can be shared?*    | Yes                                           | Rarely                                           |
+| *Measured by*       | Task completion                               | Impact and results                               |
+| *Typical holder*      | ICs, junior to mid-level roles                | Senior engineers, leads, managers                |
+| *Driven by*           | Role or assignment                            | Ownership and trust                              |
 
 
 ## From Doer to Enabler: Navigating the Shift
 
-As a senior engineer or technical leader, the shift from being *responsible for execution* to *accountable for direction and outcomes* is critical—but also uncomfortable.
+As a senior engineer or technical leader, the shift from being *responsible for execution* to *accountable for direction and outcomes* is critical but also uncomfortable.
 
 It’s easy to default to doing the work yourself. After all, that’s what got you here. But *long-term success means your team succeeds without your constant involvement.* The goal is to *build capability, not dependency*.
 
@@ -103,7 +103,7 @@ Sponsorship is the ultimate act of *accountability without responsibility*. It�
 3. *Support, don’t steer.* Let them lead. Advise without controlling.
 4. *Celebrate their wins.* Let them receive the credit, even if you seeded the idea.
 
-It may be uncomfortable to hand over critical work—but *if your organization depends on you, it’s fragile*. If it thrives without you, that’s the legacy of a truly accountable leader.
+It may be uncomfortable to hand over critical work but *if your organization depends on you, it’s fragile*. If it thrives without you, that’s the legacy of a truly accountable leader.
 
 
 ## What Happens If You Don’t?
