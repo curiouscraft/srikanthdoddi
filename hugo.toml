@@ -27,10 +27,6 @@ theme = 'ananke'
     name = "Srikanth Doddi"
 [menu]
   [[menu.main]]
-    weight = 600
-    name = "Stories"
-    url = "/stories/"
-  [[menu.main]]
     weight = 700
     name = "Guides"
     url = "/guides/"

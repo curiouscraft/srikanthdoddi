@@ -3,7 +3,7 @@ title: Flexing Your Leadership Style
 url: /guides/flexing-leadership-style
 date: '2025-07-19'
 weight: 17000
-book_section: Getting the title where you are
+book_section: Leadership
 ---
 
 > One of the most powerful traits in effective leaders isn’t just decisiveness or vision—it’s the ability to adapt. In my own leadership journey, I’ve realized that different situations, teams, and even individuals need different things from a leader. You don’t become a better leader by always taking charge. Sometimes, you do it by stepping back.  

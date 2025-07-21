@@ -3,7 +3,7 @@ title: Climbing the Freedom Ladder
 url: /guides/freedom-ladder
 date: '2025-07-19'
 weight: 17000
-book_section: Getting the title where you are
+book_section: Leadership
 ---
 
 > If you want to scale your leadership, you have to scale trust. That means letting go of control—not blindly, but progressively.  
