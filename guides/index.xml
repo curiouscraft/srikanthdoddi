@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>From Code to Influence: A Software Engineer’s Journey</title><link>https://techleadmanager.com/guides/</link><description>Recent content on From Code to Influence: A Software Engineer’s Journey</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Srikanth Doddi</copyright><lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://techleadmanager.com/guides/index.xml" rel="self" type="application/rss+xml"/><item><title>Flexing Your Leadership Style</title><link>https://techleadmanager.com/guides/flexing-leadership-style/</link><pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/flexing-leadership-style/</guid><description>&lt;blockquote>
 &lt;p>One of the most powerful traits in effective leaders isn’t just decisiveness or vision—it’s the ability to adapt. In my own leadership journey, I’ve realized that different situations, teams, and even individuals need different things from a leader. You don’t become a better leader by always taking charge. Sometimes, you do it by stepping back.&lt;br>
 - &lt;a href="https://techleadmanager.com/stories/tanya-rehman">Tanya Rehman&lt;/a>&lt;/p>&lt;/blockquote>
-&lt;p>The &lt;a href="https://en.wikipedia.org/wiki/Tannenbaum_and_Schmidt_Continuum">Tannenbaum and Schmidt Leadership Continuum&lt;/a> models leadership not as a fixed trait, but as a &lt;strong>sliding scale of authority and freedom&lt;/strong>. It illustrates seven leadership styles ranging from &lt;strong>manager-centered&lt;/strong> to &lt;strong>team-centered&lt;/strong>.&lt;/p>
-&lt;p>This model is especially helpful for engineers and tech leads transitioning into &lt;strong>Staff-plus roles&lt;/strong>, where leadership is increasingly about &lt;strong>influence&lt;/strong> and &lt;strong>adaptability&lt;/strong>, not command-and-control.&lt;/p>
+&lt;p>The &lt;a href="https://en.wikipedia.org/wiki/Tannenbaum_and_Schmidt_Continuum">Tannenbaum and Schmidt Leadership Continuum&lt;/a> models leadership not as a fixed trait, but as a &lt;em>sliding scale of authority and freedom&lt;/em>. It illustrates seven leadership styles ranging from &lt;em>manager-centered&lt;/em> to &lt;em>team-centered&lt;/em>.&lt;/p>
+&lt;p>This model is especially helpful for engineers and tech leads transitioning into &lt;em>Staff-plus roles&lt;/em>, where leadership is increasingly about &lt;em>influence&lt;/em> and &lt;em>adaptability&lt;/em>, not command-and-control.&lt;/p>
 &lt;h2 id="the-full-continuum">The full continuum&lt;/h2>
 &lt;p>Below is a breakdown of the seven styles from the Tannenbaum-Schmidt model:&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>Style&lt;/th>
-&lt;th>Description&lt;/th>
+&lt;th>&lt;em>Style&lt;/em>&lt;/th>
+&lt;th>&lt;em>Description&lt;/em>&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>&lt;strong>Tells&lt;/strong>&lt;/td>
+&lt;td>&lt;em>Tells&lt;/em>&lt;/td>
 &lt;td>Manager makes the decision and announces it. No team input.&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;strong>Sells&lt;/strong>&lt;/td>
+&lt;td>&lt;em>Sells&lt;/em>&lt;/td>
 &lt;td>Manager makes the decision and explains reasoning to gain team buy-in.&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;strong>Suggests&lt;/strong>&lt;/td>
+&lt;td>&lt;em>Suggests&lt;/em>&lt;/td>
 &lt;td>Manager presents decision and welcomes questions or feedback.&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;strong>Consults&lt;/strong>&lt;/td>
+&lt;td>&lt;em>Consults&lt;/em>&lt;/td>
 &lt;td>Manager outlines the problem, invites team input, then makes the decision.&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;strong>Joins&lt;/strong>&lt;/td>
+&lt;td>&lt;em>Joins&lt;/em>&lt;/td>
 &lt;td>Manager and team brainstorm options together; manager makes final call.&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;strong>Delegates&lt;/strong>&lt;/td>
+&lt;td>&lt;em>Delegates&lt;/em>&lt;/td>
 &lt;td>Manager defines boundaries and lets the team decide within those constraints.&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;strong>Abdicates&lt;/strong>&lt;/td>
+&lt;td>&lt;em>Abdicates&lt;/em>&lt;/td>
 &lt;td>Team has full autonomy to explore, decide, and act. Manager provides minimal guidance.&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>This continuum shows that leadership is &lt;strong>not binary&lt;/strong>—instead, it&amp;rsquo;s a matter of &lt;strong>how much control you retain versus how much freedom you grant&lt;/strong>.&lt;/p>
+&lt;p>This continuum shows that leadership is &lt;em>not binary&lt;/em> instead, it&amp;rsquo;s a matter of &lt;em>how much control you retain versus how much freedom you grant&lt;/em>.&lt;/p>
 &lt;h2 id="why-leadership-flexibility-matters">Why leadership flexibility matters&lt;/h2>
-&lt;p>Rigid leadership (always using one style) can stifle innovation or create friction. Conversely, flexing your approach based on &lt;strong>urgency, team experience, and risk level&lt;/strong> leads to better outcomes and healthier team dynamics.&lt;/p>
+&lt;p>Rigid leadership (always using one style) can stifle innovation or create friction. Conversely, flexing your approach based on &lt;em>urgency, team experience, and risk level&lt;/em> leads to better outcomes and healthier team dynamics.&lt;/p>
 &lt;p>For example:&lt;/p>
 &lt;ul>
-&lt;li>Use &lt;strong>Tells&lt;/strong> during incidents or high-risk decisions.&lt;/li>
-&lt;li>Use &lt;strong>Joins&lt;/strong> or &lt;strong>Delegates&lt;/strong> during long-term planning or innovation projects.&lt;/li>
-&lt;li>Use &lt;strong>Consults&lt;/strong> or &lt;strong>Suggests&lt;/strong> when trust is being built or expertise is uneven.&lt;/li>
+&lt;li>Use &lt;em>Tells&lt;/em> during incidents or high-risk decisions.&lt;/li>
+&lt;li>Use &lt;em>Joins&lt;/em> or &lt;em>Delegates&lt;/em> during long-term planning or innovation projects.&lt;/li>
+&lt;li>Use &lt;em>Consults&lt;/em> or &lt;em>Suggests&lt;/em> when trust is being built or expertise is uneven.&lt;/li>
 &lt;/ul>
 &lt;p>In Staff-plus roles, your ability to pick the &lt;em>right style at the right time&lt;/em> is as critical as technical execution.&lt;/p>
 &lt;h2 id="internal-leadership-visibility">Internal leadership visibility&lt;/h2>
@@ -61,7 +61,7 @@
 &lt;li>Use team rituals (like demos or syncs) to showcase inclusive decision-making.&lt;/li>
 &lt;li>Show how you’ve helped team members grow into decision-makers by gradually shifting toward &lt;strong>Delegates&lt;/strong> or &lt;strong>Abdicates&lt;/strong>.&lt;/li>
 &lt;/ul>
-&lt;p>Documenting how and when you apply the continuum demonstrates self-awareness and emotional intelligence—key traits for Staff-plus leaders.&lt;/p>
+&lt;p>Documenting how and when you apply the continuum demonstrates self-awareness and emotional intelligence key traits for Staff-plus leaders.&lt;/p>
 &lt;h2 id="executive-visibility">Executive visibility&lt;/h2>
 &lt;p>Executives value scalable leadership. That means:&lt;/p>
 &lt;ul>
@@ -69,7 +69,7 @@
 &lt;li>Creating clarity without micromanaging.&lt;/li>
 &lt;li>Knowing when &lt;em>not&lt;/em> to lead directly.&lt;/li>
 &lt;/ul>
-&lt;p>Use your &lt;a href="https://techleadmanager.com/guides/promo-packets">promotion packet&lt;/a> to showcase times you&amp;rsquo;ve moved along the continuum—especially toward &lt;strong>Joins&lt;/strong>, &lt;strong>Delegates&lt;/strong>, and &lt;strong>Abdicates&lt;/strong>—to develop leadership in others.&lt;/p>
+&lt;p>Use your &lt;a href="https://techleadmanager.com/guides/promo-packets">promotion packet&lt;/a> to showcase times you&amp;rsquo;ve moved along the continuum—especially toward &lt;strong>Joins&lt;/strong>, &lt;strong>Delegates&lt;/strong>, and &lt;strong>Abdicates&lt;/strong> to develop leadership in others.&lt;/p>
 &lt;p>You can also:&lt;/p>
 &lt;ul>
 &lt;li>Include reasoning behind your style in planning docs.&lt;/li>
@@ -84,7 +84,7 @@
 &lt;li>Podcasts on decision-making and psychological safety.&lt;/li>
 &lt;li>Case studies or internal playbooks demonstrating leadership transitions.&lt;/li>
 &lt;/ul>
-&lt;p>Sharing how you&amp;rsquo;ve moved across the continuum not only elevates your voice—it helps others grow into thoughtful leaders.&lt;/p>
+&lt;p>Sharing how you&amp;rsquo;ve moved across the continuum not only elevates your voice it helps others grow into thoughtful leaders.&lt;/p>
 &lt;h2 id="should-you-focus-on-leadership-style-flexibility">Should &lt;em>you&lt;/em> focus on leadership style flexibility?&lt;/h2>
 &lt;p>If you&amp;rsquo;re always leading from the same position on the continuum, you&amp;rsquo;re missing opportunities to empower your team and grow yourself.&lt;/p>
 &lt;p>Ask yourself:&lt;/p>
@@ -93,37 +93,37 @@
 &lt;li>Do I involve the team more now than I did a year ago?&lt;/li>
 &lt;li>Am I stuck in &amp;ldquo;Tells&amp;rdquo; mode because it feels safer?&lt;/li>
 &lt;/ul>
-&lt;p>Flexing along the continuum builds trust, resilience, and scale—exactly what organizations look for in Staff-plus engineers.&lt;/p>
+&lt;p>Flexing along the continuum builds trust, resilience, and scale exactly what organizations look for in Staff-plus engineers.&lt;/p>
 &lt;hr>
 &lt;blockquote>
-&lt;p>🧠 &lt;em>&amp;ldquo;Leadership is about reading the room—and then choosing the tone.&amp;rdquo;&lt;/em>&lt;br>
+&lt;p>🧠 &lt;em>&amp;ldquo;Leadership is about reading the room and then choosing the tone.&amp;rdquo;&lt;/em>&lt;br>
 The Tannenbaum-Schmidt Continuum gives you the vocabulary and structure to do that intentionally.&lt;/p>&lt;/blockquote></description></item><item><title>Climbing the Freedom Ladder</title><link>https://techleadmanager.com/guides/freedom-ladder/</link><pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/freedom-ladder/</guid><description>&lt;blockquote>
 &lt;p>If you want to scale your leadership, you have to scale trust. That means letting go of control—not blindly, but progressively.&lt;br>
-- &lt;a href="https://techleadmanager.com/stories/adrian-lee">Adrian Lee&lt;/a>&lt;/p>&lt;/blockquote>
-&lt;p>The &lt;strong>Freedom Ladder&lt;/strong> is a simple but powerful tool for thinking about how leaders delegate work and decision-making. At each rung of the ladder, the balance between &lt;strong>managerial control&lt;/strong> and &lt;strong>individual autonomy&lt;/strong> shifts—until responsibility is fully owned by the contributor.&lt;/p>
-&lt;p>This model is especially useful for Staff-plus engineers who need to &lt;strong>scale impact&lt;/strong> by empowering others, not just doing the work themselves.&lt;/p>
+- &lt;a href="https://staffeng.com/guides/stories/adrian-lee">Adrian Lee&lt;/a>&lt;/p>&lt;/blockquote>
+&lt;p>The &lt;em>Freedom Ladder&lt;/em> is a simple but powerful tool for thinking about how leaders delegate work and decision-making. At each rung of the ladder, the balance between &lt;em>managerial control&lt;/em> and &lt;em>individual autonomy&lt;/em> shifts until responsibility is fully owned by the contributor.&lt;/p>
+&lt;p>This model is especially useful for Staff-plus engineers who need to &lt;em>scale impact&lt;/em> by empowering others, not just doing the work themselves.&lt;/p>
 &lt;h2 id="what-is-the-freedom-ladder">What is the Freedom Ladder?&lt;/h2>
 &lt;p>The Freedom Ladder defines five levels of autonomy:&lt;/p>
 &lt;ol>
-&lt;li>&lt;strong>Wait until told&lt;/strong> – The individual takes no action without instruction.&lt;/li>
-&lt;li>&lt;strong>Ask what to do next&lt;/strong> – The individual signals readiness, but defers decision-making.&lt;/li>
-&lt;li>&lt;strong>Suggest, check before acting&lt;/strong> – The individual proposes action, manager approves.&lt;/li>
-&lt;li>&lt;strong>Report afterwards&lt;/strong> – The individual acts independently, then updates the manager.&lt;/li>
-&lt;li>&lt;strong>Free to act, routine reporting only&lt;/strong> – Full autonomy within defined boundaries.&lt;/li>
+&lt;li>&lt;em>Wait until told&lt;/em> – The individual takes no action without instruction.&lt;/li>
+&lt;li>&lt;em>Ask what to do next&lt;/em> – The individual signals readiness, but defers decision-making.&lt;/li>
+&lt;li>&lt;em>Suggest, check before acting&lt;/em> – The individual proposes action, manager approves.&lt;/li>
+&lt;li>&lt;em>Report afterwards&lt;/em> – The individual acts independently, then updates the manager.&lt;/li>
+&lt;li>&lt;em>Free to act, routine reporting only&lt;/em> – Full autonomy within defined boundaries.&lt;/li>
 &lt;/ol>
-&lt;p>Each step up the ladder gives the individual more &lt;strong>challenge and fulfillment&lt;/strong>, while freeing the manager to focus on &lt;strong>strategic objectives&lt;/strong>.&lt;/p>
-&lt;p>The ladder implicitly addresses varying &lt;strong>levels of grip&lt;/strong>: how tightly or loosely a manager holds control over outcomes. That grip should shift based on the person&amp;rsquo;s experience, the risk of the work, and the urgency of results.&lt;/p>
+&lt;p>Each step up the ladder gives the individual more &lt;em>challenge and fulfillment&lt;/em>, while freeing the manager to focus on &lt;em>strategic objectives&lt;/em>.&lt;/p>
+&lt;p>The ladder implicitly addresses varying &lt;em>levels of grip&lt;/em>: how tightly or loosely a manager holds control over outcomes. That grip should shift based on the person&amp;rsquo;s experience, the risk of the work, and the urgency of results.&lt;/p>
 &lt;h2 id="why-it-matters-at-staff-plus-level">Why it matters at Staff-plus level&lt;/h2>
-&lt;p>In a Staff-plus role, &lt;strong>you are the system&lt;/strong>. You aren’t just delivering on your own work—you’re enabling others. The Freedom Ladder helps you think clearly about &lt;strong>who should own what&lt;/strong>, and how much autonomy they’re ready for.&lt;/p>
+&lt;p>In a Staff-plus role, &lt;em>you are the system&lt;/em>. You aren’t just delivering on your own work you’re enabling others. The Freedom Ladder helps you think clearly about &lt;em>who should own what&lt;/em>, and how much autonomy they’re ready for.&lt;/p>
 &lt;p>Some examples:&lt;/p>
 &lt;ul>
 &lt;li>New engineers might start at “Ask what to do next.”&lt;/li>
-&lt;li>A Staff engineer taking on new domain work may be at “Suggest—check before acting.”&lt;/li>
+&lt;li>A Staff engineer taking on new domain work may be at “Suggest check before acting.”&lt;/li>
 &lt;li>A senior IC with proven judgment might be operating at “Report afterwards” or “Free to act.”&lt;/li>
 &lt;/ul>
-&lt;p>Helping others &lt;strong>climb this ladder&lt;/strong> is one of the most powerful ways to build a resilient, high-performing team.&lt;/p>
+&lt;p>Helping others &lt;em>climb this ladder&lt;/em> is one of the most powerful ways to build a resilient, high-performing team.&lt;/p>
 &lt;h2 id="internal-visibility">Internal visibility&lt;/h2>
-&lt;p>Your role isn’t just to give freedom, but to do so &lt;strong>transparently&lt;/strong>—in a way that shows thoughtful delegation rather than disengagement.&lt;/p>
+&lt;p>Your role isn’t just to give freedom, but to do so &lt;em>transparently&lt;/em> in a way that shows thoughtful delegation rather than disengagement.&lt;/p>
 &lt;p>You can create internal visibility by:&lt;/p>
 &lt;ul>
 &lt;li>Making expectations explicit: “I trust you to decide and just report back.”&lt;/li>
@@ -133,14 +133,14 @@ The Tannenbaum-Schmidt Continuum gives you the vocabulary and structure to do th
 &lt;/ul>
 &lt;p>Well-documented and well-explained delegation boosts psychological safety and reinforces that autonomy is earned, not assumed.&lt;/p>
 &lt;h2 id="executive-visibility">Executive visibility&lt;/h2>
-&lt;p>Executives don’t just want to know &lt;em>what&lt;/em> you did—they want to know &lt;em>how&lt;/em> you scaled yourself. Moving your team members up the Freedom Ladder is a powerful narrative in a &lt;a href="https://techleadmanager.com/guides/promo-packets">promotion packet&lt;/a> or stakeholder review.&lt;/p>
+&lt;p>Executives don’t just want to know &lt;em>what&lt;/em> you did they want to know &lt;em>how&lt;/em> you scaled yourself. Moving your team members up the Freedom Ladder is a powerful narrative in a &lt;a href="https://staffeng.com/guides/promo-packets/">promotion packet&lt;/a> or stakeholder review.&lt;/p>
 &lt;p>You can show this by:&lt;/p>
 &lt;ul>
 &lt;li>Describing how you reduced your own control on a critical project.&lt;/li>
 &lt;li>Showing growth in a teammate’s decision-making maturity.&lt;/li>
 &lt;li>Highlighting a system or protocol you put in place that lets others act autonomously.&lt;/li>
 &lt;/ul>
-&lt;p>When you increase others’ autonomy responsibly, you increase the system’s capacity—an executive-level trait.&lt;/p>
+&lt;p>When you increase others’ autonomy responsibly, you increase the system’s capacity an executive-level trait.&lt;/p>
 &lt;h2 id="external-visibility">External visibility&lt;/h2>
 &lt;p>The Freedom Ladder is also a great tool to share externally as part of your leadership narrative. Consider:&lt;/p>
 &lt;ul>
@@ -149,22 +149,22 @@ The Tannenbaum-Schmidt Continuum gives you the vocabulary and structure to do th
 &lt;li>Creating an internal playbook or guide for engineering leads on using the ladder.&lt;/li>
 &lt;li>Coaching others through delegation and control handoff.&lt;/li>
 &lt;/ul>
-&lt;p>When you share how autonomy works in practice—not just theory—you elevate your leadership presence across the org and beyond.&lt;/p>
+&lt;p>When you share how autonomy works in practice not just theory you elevate your leadership presence across the org and beyond.&lt;/p>
 &lt;h2 id="should-you-focus-on-the-freedom-ladder">Should &lt;em>you&lt;/em> focus on the Freedom Ladder?&lt;/h2>
 &lt;p>If you find yourself burned out or blocking others, you may be holding on to too much control. Alternatively, if you’ve delegated and chaos ensued, perhaps you jumped rungs too quickly.&lt;/p>
-&lt;p>Use the Freedom Ladder as a &lt;strong>diagnostic tool&lt;/strong>:&lt;/p>
+&lt;p>Use the Freedom Ladder as a &lt;em>diagnostic tool&lt;/em>:&lt;/p>
 &lt;ul>
 &lt;li>Are you giving too much freedom without enough support?&lt;/li>
 &lt;li>Are you slowing things down by not trusting others to act?&lt;/li>
 &lt;li>Are your team members clear on where they stand?&lt;/li>
 &lt;/ul>
-&lt;p>Staff-plus leadership isn’t about controlling more—it’s about &lt;strong>controlling less, better&lt;/strong>.&lt;/p>
+&lt;p>Staff-plus leadership isn’t about controlling more it’s about &lt;em>controlling less, better&lt;/em>.&lt;/p>
 &lt;hr>
 &lt;blockquote>
 &lt;p>🧠 &lt;em>&amp;ldquo;The goal isn’t to climb the ladder alone—it’s to build a team that climbs together.&amp;rdquo;&lt;/em>&lt;br>
 Great leaders create space for others to rise, responsibly.&lt;/p>&lt;/blockquote></description></item><item><title>Accountability VS Responsibility</title><link>https://techleadmanager.com/guides/accountability-vs-responsibility/</link><pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate><guid>https://techleadmanager.com/guides/accountability-vs-responsibility/</guid><description>&lt;p>Accountability vs Responsibility: Cultivating Leadership Through Ownership:&lt;/p>
 &lt;p>In the journey from individual contributor to organizational leader, one of the most fundamental shifts is from &lt;em>being responsible for doing the work&lt;/em> to &lt;em>being accountable for enabling it at scale&lt;/em>. While &amp;ldquo;responsibility&amp;rdquo; and &amp;ldquo;accountability&amp;rdquo; are often treated as synonyms, they represent distinct and complementary aspects of leadership that are essential for building sustainable, resilient organizations.&lt;/p>
-&lt;p>Understanding and mastering this distinction is not just semantic—it’s strategic.&lt;/p>
+&lt;p>Understanding and mastering this distinction is not just semantic it’s strategic.&lt;/p>
 &lt;h2 id="definitions">Definitions&lt;/h2>
 &lt;p>&lt;strong>Responsibility&lt;/strong>&lt;/p>
 &lt;p>Responsibility is about task ownership. It refers to the obligations, duties, or roles someone is assigned or accepts. A responsible person is expected to follow through and execute.&lt;/p>
@@ -178,7 +178,7 @@ Great leaders create space for others to rise, responsibly.&lt;/p>&lt;/blockquot
 &lt;p>&lt;strong>Accountability&lt;/strong>&lt;/p>
 &lt;p>&lt;em>Accountability&lt;/em> is about &lt;em>outcome ownership&lt;/em>. It means being &lt;em>answerable for results&lt;/em>, regardless of who does the work.&lt;/p>
 &lt;ul>
-&lt;li>Accountability is &lt;em>singular&lt;/em>—only one person is ultimately accountable.&lt;/li>
+&lt;li>Accountability is &lt;em>singular&lt;/em> only one person is ultimately accountable.&lt;/li>
 &lt;li>It &lt;em>cannot be delegated&lt;/em>, though it can (and should) empower others.&lt;/li>
 &lt;li>It’s focused on &lt;em>results&lt;/em>, not activity.&lt;/li>
 &lt;/ul>
@@ -190,45 +190,45 @@ Great leaders create space for others to rise, responsibly.&lt;/p>&lt;/blockquot
 &lt;thead>
 &lt;tr>
 &lt;th>&lt;/th>
-&lt;th>&lt;strong>Responsibility&lt;/strong>&lt;/th>
-&lt;th>&lt;strong>Accountability&lt;/strong>&lt;/th>
+&lt;th>&lt;em>Responsibility&lt;/em>&lt;/th>
+&lt;th>&lt;em>Accountability&lt;/em>&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>&lt;strong>Focus&lt;/strong>&lt;/td>
+&lt;td>&lt;em>Focus&lt;/em>&lt;/td>
 &lt;td>Completing tasks&lt;/td>
 &lt;td>Achieving outcomes&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;strong>Can be delegated?&lt;/strong>&lt;/td>
+&lt;td>&lt;em>Can be delegated?&lt;/em>&lt;/td>
 &lt;td>Yes&lt;/td>
 &lt;td>No&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;strong>Can be shared?&lt;/strong>&lt;/td>
+&lt;td>&lt;em>Can be shared?&lt;/em>&lt;/td>
 &lt;td>Yes&lt;/td>
 &lt;td>Rarely&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;strong>Measured by&lt;/strong>&lt;/td>
+&lt;td>&lt;em>Measured by&lt;/em>&lt;/td>
 &lt;td>Task completion&lt;/td>
 &lt;td>Impact and results&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;strong>Typical holder&lt;/strong>&lt;/td>
+&lt;td>&lt;em>Typical holder&lt;/em>&lt;/td>
 &lt;td>ICs, junior to mid-level roles&lt;/td>
 &lt;td>Senior engineers, leads, managers&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>&lt;strong>Driven by&lt;/strong>&lt;/td>
+&lt;td>&lt;em>Driven by&lt;/em>&lt;/td>
 &lt;td>Role or assignment&lt;/td>
 &lt;td>Ownership and trust&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="from-doer-to-enabler-navigating-the-shift">From Doer to Enabler: Navigating the Shift&lt;/h2>
-&lt;p>As a senior engineer or technical leader, the shift from being &lt;em>responsible for execution&lt;/em> to &lt;em>accountable for direction and outcomes&lt;/em> is critical—but also uncomfortable.&lt;/p>
+&lt;p>As a senior engineer or technical leader, the shift from being &lt;em>responsible for execution&lt;/em> to &lt;em>accountable for direction and outcomes&lt;/em> is critical but also uncomfortable.&lt;/p>
 &lt;p>It’s easy to default to doing the work yourself. After all, that’s what got you here. But &lt;em>long-term success means your team succeeds without your constant involvement.&lt;/em> The goal is to &lt;em>build capability, not dependency&lt;/em>.&lt;/p>
 &lt;blockquote>
 &lt;p>&amp;ldquo;At this point, I spend less time advocating for specific technologies or programs and more time empowering others to advocate for the technologies and programs that they think are important.&amp;rdquo;&lt;br>
@@ -266,7 +266,7 @@ Great leaders create space for others to rise, responsibly.&lt;/p>&lt;/blockquot
 &lt;li>&lt;em>Support, don’t steer.&lt;/em> Let them lead. Advise without controlling.&lt;/li>
 &lt;li>&lt;em>Celebrate their wins.&lt;/em> Let them receive the credit, even if you seeded the idea.&lt;/li>
 &lt;/ol>
-&lt;p>It may be uncomfortable to hand over critical work—but &lt;em>if your organization depends on you, it’s fragile&lt;/em>. If it thrives without you, that’s the legacy of a truly accountable leader.&lt;/p>
+&lt;p>It may be uncomfortable to hand over critical work but &lt;em>if your organization depends on you, it’s fragile&lt;/em>. If it thrives without you, that’s the legacy of a truly accountable leader.&lt;/p>
 &lt;h2 id="what-happens-if-you-dont">What Happens If You Don’t?&lt;/h2>
 &lt;p>You might become the bottleneck.&lt;/p>
 &lt;p>If your value is rooted solely in &lt;em>doing&lt;/em> and &lt;em>deciding&lt;/em>, the organization will stagnate when you step back. The short-term wins of being the “go-to” person eventually become long-term liabilities.&lt;/p>
