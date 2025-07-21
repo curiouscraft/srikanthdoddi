@@ -48,7 +48,7 @@ Being a flexible leader only matters if people can see and understand it. To cre
 *   Explain your decision-making style choices in project kickoffs or retros.
 *   Share leadership shifts in internal documentation or postmortems.
 *   Use team rituals (like demos or syncs) to showcase inclusive decision-making.
-*   Show how you’ve helped team members grow into decision-makers by gradually shifting toward **Delegates** or **Abdicates**.
+*   Show how you’ve helped team members grow into decision-makers by gradually shifting toward *Delegates* or *Abdicates*.
 
 Documenting how and when you apply the continuum demonstrates self-awareness and emotional intelligence key traits for Staff-plus leaders.
 
@@ -60,7 +60,7 @@ Executives value scalable leadership. That means:
 - Creating clarity without micromanaging.
 - Knowing when *not* to lead directly.
 
-Use your [promotion packet](/guides/promo-packets) to showcase times you've moved along the continuum—especially toward **Joins**, **Delegates**, and **Abdicates** to develop leadership in others.
+Use your [promotion packet](/guides/promo-packets) to showcase times you've moved along the continuum—especially toward *Joins*, *Delegates*, and *Abdicates* to develop leadership in others.
 
 You can also:
 
