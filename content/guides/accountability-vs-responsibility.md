@@ -51,9 +51,9 @@ Understanding the difference becomes particularly important as you transition to
 
 ## From Doer to Enabler: Navigating the Shift
 
-As a senior engineer or technical leader, the shift from being **responsible for execution** to **accountable for direction and outcomes** is critical—but also uncomfortable.
+As a senior engineer or technical leader, the shift from being *responsible for execution* to *accountable for direction and outcomes* is critical—but also uncomfortable.
 
-It’s easy to default to doing the work yourself. After all, that’s what got you here. But **long-term success means your team succeeds without your constant involvement.** The goal is to **build capability, not dependency**.
+It’s easy to default to doing the work yourself. After all, that’s what got you here. But *long-term success means your team succeeds without your constant involvement.* The goal is to *build capability, not dependency*.
 
 > "At this point, I spend less time advocating for specific technologies or programs and more time empowering others to advocate for the technologies and programs that they think are important."  
 > — [Michelle Bu](https://staffeng.com/stories/michelle-bu)
