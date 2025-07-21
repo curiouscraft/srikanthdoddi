@@ -1,7 +1,7 @@
 baseURL = "https://techleadmanager.com/"
 languageCode = 'en-us'
 title = "From Code to Influence: A Software Engineer’s Journey"
-copyright = "Will Larson"
+copyright = "Srikanth Doddi"
 theme = 'ananke'
 
 [taxonomies]
@@ -24,7 +24,7 @@ theme = 'ananke'
     enabled = false
     bg_color = 'bg-washed-yellow'
   [params.Author]
-    name = "Will Larson"
+    name = "Srikanth Doddi"
 [menu]
   [[menu.main]]
     weight = 600

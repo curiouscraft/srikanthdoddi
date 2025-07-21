@@ -1,0 +1,37 @@
+.article-body {
+    text-align: justify;
+}
+
+.article-body em {
+    color: #1a73e8;
+    /* A soft purple or use any brand color */
+    font-style: italic;
+    font-weight: 500;
+    font-family: Georgia, serif;
+    /* Optional: use a classy serif font */
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2rem 0;
+    font-size: 1rem;
+}
+
+table th,
+table td {
+    border: 1px solid #ddd;
+    padding: 0.75rem;
+    text-align: left;
+    vertical-align: top;
+}
+
+table th {
+    background-color: #f9f9f9;
+    font-weight: bold;
+}
+
+table tr:nth-child(even) {
+    background-color: #fafafa;
+}
