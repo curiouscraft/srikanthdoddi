@@ -1,7 +1,7 @@
 ---
 title: Climbing the Freedom Ladder
 url: /guides/freedom-ladder
-date: '2025-07-19'
+date: '2025-07-18'
 weight: 17000
 book_section: Leadership
 ---

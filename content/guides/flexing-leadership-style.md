@@ -1,7 +1,7 @@
 ---
 title: Flexing Your Leadership Style
 url: /guides/flexing-leadership-style
-date: '2025-07-19'
+date: '2025-07-17'
 weight: 17000
 book_section: Leadership
 ---

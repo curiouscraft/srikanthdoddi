@@ -1,7 +1,7 @@
 ---
 title: Delegating – Understand When, How, and the Best Way To Do It
 url: /guides/delegating-how-and-when
-date: '2025-07-22'
+date: '2025-07-21'
 weight: 17000
 book_section: Leadership
 ---

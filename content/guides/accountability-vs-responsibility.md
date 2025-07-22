@@ -1,7 +1,7 @@
 ---
 title: Accountability VS Responsibility
 url: /guides/accountability-vs-responsibility
-date: '2025-06-21'
+date: '2025-06-20'
 weight: 2000
 book_section: Leadership
 ---

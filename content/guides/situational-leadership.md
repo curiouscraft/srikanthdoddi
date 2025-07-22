@@ -1,7 +1,7 @@
 ---
 title: Understanding Situational Leadership - A Practical Guide with Engineer-Manager Scenarios
 url: /guides/situational-leadership
-date: '2025-07-21'
+date: '2025-07-19'
 weight: 17000
 book_section: Leadership
 ---
